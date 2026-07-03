@@ -1,0 +1,9882 @@
+[
+  {
+    "id": "io-case-001",
+    "title": "点亮LED案例1",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003092",
+      "io-q-001837",
+      "io-q-000688"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-002",
+    "title": "按键控制案例2",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001347",
+      "io-q-002055",
+      "io-q-001372"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-003",
+    "title": "按键消抖案例3",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003432",
+      "io-q-000639",
+      "io-q-000179"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-004",
+    "title": "流水灯案例4",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000072",
+      "io-q-002099",
+      "io-q-002481"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-005",
+    "title": "蜂鸣器案例5",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000189",
+      "io-q-001637",
+      "io-q-003595"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-006",
+    "title": "PWM调光案例6",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002038",
+      "io-q-001271",
+      "io-q-003476"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-007",
+    "title": "PWM舵机案例7",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002200",
+      "io-q-001208",
+      "io-q-002229"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-008",
+    "title": "定时器中断案例8",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002433",
+      "io-q-000954",
+      "io-q-002587"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-009",
+    "title": "外部中断案例9",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003255",
+      "io-q-002718",
+      "io-q-001543"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-010",
+    "title": "串口打印案例10",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001944",
+      "io-q-003013",
+      "io-q-002433"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-011",
+    "title": "串口命令案例11",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000144",
+      "io-q-001580",
+      "io-q-002012"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-012",
+    "title": "I2C传感器案例12",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001951",
+      "io-q-002534",
+      "io-q-003341"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-013",
+    "title": "SPI显示屏案例13",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000816",
+      "io-q-002699",
+      "io-q-001479"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-014",
+    "title": "ADC采样案例14",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002827",
+      "io-q-001853",
+      "io-q-001264"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-015",
+    "title": "温湿度采集案例15",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003318",
+      "io-q-000826",
+      "io-q-001702"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-016",
+    "title": "OLED显示案例16",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001945",
+      "io-q-000088",
+      "io-q-000907"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-017",
+    "title": "超声波测距案例17",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000744",
+      "io-q-000739",
+      "io-q-001684"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-018",
+    "title": "电机控制案例18",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003437",
+      "io-q-002035",
+      "io-q-000743"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-019",
+    "title": "RTOS任务案例19",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001122",
+      "io-q-002407",
+      "io-q-003111"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-020",
+    "title": "MQTT上报案例20",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000747",
+      "io-q-001329",
+      "io-q-000375"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-021",
+    "title": "环境监测案例21",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000050",
+      "io-q-002800",
+      "io-q-001388"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-022",
+    "title": "IoT面试案例22",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001630",
+      "io-q-000166",
+      "io-q-003258"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-023",
+    "title": "点亮LED案例23",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000274",
+      "io-q-000699",
+      "io-q-001304"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-024",
+    "title": "按键控制案例24",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002546",
+      "io-q-001673",
+      "io-q-002714"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-025",
+    "title": "按键消抖案例25",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001271",
+      "io-q-000792",
+      "io-q-003570"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-026",
+    "title": "流水灯案例26",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001837",
+      "io-q-000881",
+      "io-q-000124"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-027",
+    "title": "蜂鸣器案例27",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003341",
+      "io-q-003043",
+      "io-q-002678"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-028",
+    "title": "PWM调光案例28",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001673",
+      "io-q-002676",
+      "io-q-001176"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-029",
+    "title": "PWM舵机案例29",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001976",
+      "io-q-002569",
+      "io-q-000679"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-030",
+    "title": "定时器中断案例30",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000690",
+      "io-q-002706",
+      "io-q-003411"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-031",
+    "title": "外部中断案例31",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001165",
+      "io-q-003205",
+      "io-q-001978"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-032",
+    "title": "串口打印案例32",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002321",
+      "io-q-000690",
+      "io-q-003403"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-033",
+    "title": "串口命令案例33",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000193",
+      "io-q-000251",
+      "io-q-002975"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-034",
+    "title": "I2C传感器案例34",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002029",
+      "io-q-003334",
+      "io-q-000794"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-035",
+    "title": "SPI显示屏案例35",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000725",
+      "io-q-003115",
+      "io-q-000503"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-036",
+    "title": "ADC采样案例36",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003208",
+      "io-q-001253",
+      "io-q-000022"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-037",
+    "title": "温湿度采集案例37",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001071",
+      "io-q-002831",
+      "io-q-002878"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-038",
+    "title": "OLED显示案例38",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001439",
+      "io-q-000832",
+      "io-q-003009"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-039",
+    "title": "超声波测距案例39",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001264",
+      "io-q-000373",
+      "io-q-001983"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-040",
+    "title": "电机控制案例40",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003040",
+      "io-q-002669",
+      "io-q-002075"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-041",
+    "title": "RTOS任务案例41",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000913",
+      "io-q-003202",
+      "io-q-000114"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-042",
+    "title": "MQTT上报案例42",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003162",
+      "io-q-002445",
+      "io-q-000827"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-043",
+    "title": "环境监测案例43",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001437",
+      "io-q-003164",
+      "io-q-001655"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-044",
+    "title": "IoT面试案例44",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001002",
+      "io-q-003662",
+      "io-q-003058"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-045",
+    "title": "点亮LED案例45",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000498",
+      "io-q-000626",
+      "io-q-001153"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-046",
+    "title": "按键控制案例46",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002952",
+      "io-q-000722",
+      "io-q-000950"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-047",
+    "title": "按键消抖案例47",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000605",
+      "io-q-000970",
+      "io-q-002470"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-048",
+    "title": "流水灯案例48",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000643",
+      "io-q-000485",
+      "io-q-002763"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-049",
+    "title": "蜂鸣器案例49",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002604",
+      "io-q-002809",
+      "io-q-002058"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-050",
+    "title": "PWM调光案例50",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003096",
+      "io-q-000620",
+      "io-q-002579"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-051",
+    "title": "PWM舵机案例51",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001720",
+      "io-q-003388",
+      "io-q-002769"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-052",
+    "title": "定时器中断案例52",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003029",
+      "io-q-000276",
+      "io-q-003584"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-053",
+    "title": "外部中断案例53",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001704",
+      "io-q-002033",
+      "io-q-002514"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-054",
+    "title": "串口打印案例54",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003312",
+      "io-q-003546",
+      "io-q-003432"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-055",
+    "title": "串口命令案例55",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002795",
+      "io-q-003604",
+      "io-q-000899"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-056",
+    "title": "I2C传感器案例56",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000225",
+      "io-q-002277",
+      "io-q-001438"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-057",
+    "title": "SPI显示屏案例57",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000936",
+      "io-q-002274",
+      "io-q-000231"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-058",
+    "title": "ADC采样案例58",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002555",
+      "io-q-001841",
+      "io-q-002084"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-059",
+    "title": "温湿度采集案例59",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000026",
+      "io-q-002331",
+      "io-q-000767"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-060",
+    "title": "OLED显示案例60",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002365",
+      "io-q-000680",
+      "io-q-000271"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-061",
+    "title": "超声波测距案例61",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000644",
+      "io-q-001064",
+      "io-q-003558"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-062",
+    "title": "电机控制案例62",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001588",
+      "io-q-001489",
+      "io-q-001368"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-063",
+    "title": "RTOS任务案例63",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003271",
+      "io-q-002250",
+      "io-q-001052"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-064",
+    "title": "MQTT上报案例64",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003335",
+      "io-q-001392",
+      "io-q-001698"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-065",
+    "title": "环境监测案例65",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001463",
+      "io-q-001284",
+      "io-q-003178"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-066",
+    "title": "IoT面试案例66",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000211",
+      "io-q-002983",
+      "io-q-003073"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-067",
+    "title": "点亮LED案例67",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000758",
+      "io-q-002657",
+      "io-q-002848"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-068",
+    "title": "按键控制案例68",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003582",
+      "io-q-002494",
+      "io-q-002745"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-069",
+    "title": "按键消抖案例69",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002806",
+      "io-q-002106",
+      "io-q-000681"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-070",
+    "title": "流水灯案例70",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000133",
+      "io-q-000006",
+      "io-q-000321"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-071",
+    "title": "蜂鸣器案例71",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001970",
+      "io-q-002795",
+      "io-q-001202"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-072",
+    "title": "PWM调光案例72",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002874",
+      "io-q-000571",
+      "io-q-000902"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-073",
+    "title": "PWM舵机案例73",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001048",
+      "io-q-000880",
+      "io-q-002195"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-074",
+    "title": "定时器中断案例74",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001289",
+      "io-q-002856",
+      "io-q-003655"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-075",
+    "title": "外部中断案例75",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002369",
+      "io-q-000489",
+      "io-q-002961"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-076",
+    "title": "串口打印案例76",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002775",
+      "io-q-001284",
+      "io-q-001489"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-077",
+    "title": "串口命令案例77",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001371",
+      "io-q-002967",
+      "io-q-000112"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-078",
+    "title": "I2C传感器案例78",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000087",
+      "io-q-002584",
+      "io-q-000987"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-079",
+    "title": "SPI显示屏案例79",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003352",
+      "io-q-001854",
+      "io-q-002740"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-080",
+    "title": "ADC采样案例80",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "easy",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003269",
+      "io-q-001020",
+      "io-q-002658"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-081",
+    "title": "温湿度采集案例81",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001491",
+      "io-q-003018",
+      "io-q-000732"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-082",
+    "title": "OLED显示案例82",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002676",
+      "io-q-003668",
+      "io-q-002960"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-083",
+    "title": "超声波测距案例83",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002953",
+      "io-q-001870",
+      "io-q-003586"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-084",
+    "title": "电机控制案例84",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000020",
+      "io-q-003399",
+      "io-q-003152"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-085",
+    "title": "RTOS任务案例85",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002332",
+      "io-q-001101",
+      "io-q-001369"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-086",
+    "title": "MQTT上报案例86",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001131",
+      "io-q-001583",
+      "io-q-000635"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-087",
+    "title": "环境监测案例87",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001272",
+      "io-q-002548",
+      "io-q-002907"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-088",
+    "title": "IoT面试案例88",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000878",
+      "io-q-000383",
+      "io-q-003239"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-089",
+    "title": "点亮LED案例89",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002772",
+      "io-q-002290",
+      "io-q-000709"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-090",
+    "title": "按键控制案例90",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000310",
+      "io-q-001918",
+      "io-q-003520"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-091",
+    "title": "按键消抖案例91",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002907",
+      "io-q-000672",
+      "io-q-001693"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-092",
+    "title": "流水灯案例92",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003097",
+      "io-q-002566",
+      "io-q-002105"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-093",
+    "title": "蜂鸣器案例93",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002580",
+      "io-q-003410",
+      "io-q-001728"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-094",
+    "title": "PWM调光案例94",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001518",
+      "io-q-002817",
+      "io-q-002542"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-095",
+    "title": "PWM舵机案例95",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000383",
+      "io-q-001066",
+      "io-q-002448"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-096",
+    "title": "定时器中断案例96",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000048",
+      "io-q-001829",
+      "io-q-003552"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-097",
+    "title": "外部中断案例97",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000862",
+      "io-q-003511",
+      "io-q-003441"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-098",
+    "title": "串口打印案例98",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001009",
+      "io-q-001080",
+      "io-q-000324"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-099",
+    "title": "串口命令案例99",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001755",
+      "io-q-001657",
+      "io-q-002667"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-100",
+    "title": "I2C传感器案例100",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003265",
+      "io-q-002895",
+      "io-q-003177"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-101",
+    "title": "SPI显示屏案例101",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000334",
+      "io-q-001766",
+      "io-q-003194"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-102",
+    "title": "ADC采样案例102",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000404",
+      "io-q-001350",
+      "io-q-003463"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-103",
+    "title": "温湿度采集案例103",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001593",
+      "io-q-000887",
+      "io-q-001070"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-104",
+    "title": "OLED显示案例104",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000987",
+      "io-q-000487",
+      "io-q-001681"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-105",
+    "title": "超声波测距案例105",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002158",
+      "io-q-002906",
+      "io-q-000020"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-106",
+    "title": "电机控制案例106",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000165",
+      "io-q-001662",
+      "io-q-003292"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-107",
+    "title": "RTOS任务案例107",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000247",
+      "io-q-000410",
+      "io-q-001648"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-108",
+    "title": "MQTT上报案例108",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003560",
+      "io-q-001612",
+      "io-q-003377"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-109",
+    "title": "环境监测案例109",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000931",
+      "io-q-000717",
+      "io-q-000703"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-110",
+    "title": "IoT面试案例110",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003452",
+      "io-q-001999",
+      "io-q-001836"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-111",
+    "title": "点亮LED案例111",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000637",
+      "io-q-001934",
+      "io-q-002551"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-112",
+    "title": "按键控制案例112",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003473",
+      "io-q-002007",
+      "io-q-002524"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-113",
+    "title": "按键消抖案例113",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001233",
+      "io-q-002406",
+      "io-q-000511"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-114",
+    "title": "流水灯案例114",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001021",
+      "io-q-000762",
+      "io-q-002351"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-115",
+    "title": "蜂鸣器案例115",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000121",
+      "io-q-002427",
+      "io-q-003550"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-116",
+    "title": "PWM调光案例116",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002995",
+      "io-q-002374",
+      "io-q-000460"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-117",
+    "title": "PWM舵机案例117",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000614",
+      "io-q-000212",
+      "io-q-000456"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-118",
+    "title": "定时器中断案例118",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000559",
+      "io-q-000673",
+      "io-q-003601"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-119",
+    "title": "外部中断案例119",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002366",
+      "io-q-000808",
+      "io-q-002001"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-120",
+    "title": "串口打印案例120",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000743",
+      "io-q-003114",
+      "io-q-001239"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-121",
+    "title": "串口命令案例121",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002503",
+      "io-q-001739",
+      "io-q-000096"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-122",
+    "title": "I2C传感器案例122",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000564",
+      "io-q-002529",
+      "io-q-002163"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-123",
+    "title": "SPI显示屏案例123",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000153",
+      "io-q-000994",
+      "io-q-003479"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-124",
+    "title": "ADC采样案例124",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002028",
+      "io-q-001746",
+      "io-q-002631"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-125",
+    "title": "温湿度采集案例125",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002984",
+      "io-q-003563",
+      "io-q-000335"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-126",
+    "title": "OLED显示案例126",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002091",
+      "io-q-001423",
+      "io-q-003568"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-127",
+    "title": "超声波测距案例127",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000185",
+      "io-q-001011",
+      "io-q-003037"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-128",
+    "title": "电机控制案例128",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003097",
+      "io-q-001248",
+      "io-q-001011"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-129",
+    "title": "RTOS任务案例129",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000639",
+      "io-q-001860",
+      "io-q-001272"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-130",
+    "title": "MQTT上报案例130",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000351",
+      "io-q-001867",
+      "io-q-001134"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-131",
+    "title": "环境监测案例131",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000926",
+      "io-q-002500",
+      "io-q-000422"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-132",
+    "title": "IoT面试案例132",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002661",
+      "io-q-003035",
+      "io-q-000349"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-133",
+    "title": "点亮LED案例133",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000578",
+      "io-q-001139",
+      "io-q-003001"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-134",
+    "title": "按键控制案例134",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002436",
+      "io-q-000170",
+      "io-q-000193"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-135",
+    "title": "按键消抖案例135",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001698",
+      "io-q-000653",
+      "io-q-001424"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-136",
+    "title": "流水灯案例136",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000472",
+      "io-q-003048",
+      "io-q-001613"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-137",
+    "title": "蜂鸣器案例137",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000650",
+      "io-q-000351",
+      "io-q-003431"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-138",
+    "title": "PWM调光案例138",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002854",
+      "io-q-001735",
+      "io-q-003481"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-139",
+    "title": "PWM舵机案例139",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001676",
+      "io-q-001806",
+      "io-q-001462"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-140",
+    "title": "定时器中断案例140",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001979",
+      "io-q-003273",
+      "io-q-001446"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-141",
+    "title": "外部中断案例141",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003291",
+      "io-q-000789",
+      "io-q-001485"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-142",
+    "title": "串口打印案例142",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002653",
+      "io-q-003444",
+      "io-q-002634"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-143",
+    "title": "串口命令案例143",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000816",
+      "io-q-001999",
+      "io-q-000065"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-144",
+    "title": "I2C传感器案例144",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000344",
+      "io-q-002947",
+      "io-q-000111"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-145",
+    "title": "SPI显示屏案例145",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001448",
+      "io-q-003441",
+      "io-q-000379"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-146",
+    "title": "ADC采样案例146",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000796",
+      "io-q-001513",
+      "io-q-000975"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-147",
+    "title": "温湿度采集案例147",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000573",
+      "io-q-001985",
+      "io-q-000246"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-148",
+    "title": "OLED显示案例148",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000875",
+      "io-q-000791",
+      "io-q-003220"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-149",
+    "title": "超声波测距案例149",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002875",
+      "io-q-000839",
+      "io-q-002795"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-150",
+    "title": "电机控制案例150",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000896",
+      "io-q-000563",
+      "io-q-001723"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-151",
+    "title": "RTOS任务案例151",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000795",
+      "io-q-003138",
+      "io-q-003639"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-152",
+    "title": "MQTT上报案例152",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001586",
+      "io-q-001802",
+      "io-q-002080"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-153",
+    "title": "环境监测案例153",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002279",
+      "io-q-000356",
+      "io-q-000061"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-154",
+    "title": "IoT面试案例154",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001352",
+      "io-q-001068",
+      "io-q-003446"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-155",
+    "title": "点亮LED案例155",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003205",
+      "io-q-001083",
+      "io-q-000035"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-156",
+    "title": "按键控制案例156",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000397",
+      "io-q-001129",
+      "io-q-003423"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-157",
+    "title": "按键消抖案例157",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003072",
+      "io-q-003527",
+      "io-q-000019"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-158",
+    "title": "流水灯案例158",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002061",
+      "io-q-001419",
+      "io-q-001550"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-159",
+    "title": "蜂鸣器案例159",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000133",
+      "io-q-001463",
+      "io-q-002671"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-160",
+    "title": "PWM调光案例160",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "medium",
+    "duration": 45,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002409",
+      "io-q-000613",
+      "io-q-000979"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-161",
+    "title": "PWM舵机案例161",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003123",
+      "io-q-003525",
+      "io-q-000822"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-162",
+    "title": "定时器中断案例162",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002167",
+      "io-q-001914",
+      "io-q-000663"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-163",
+    "title": "外部中断案例163",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000478",
+      "io-q-000892",
+      "io-q-003479"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-164",
+    "title": "串口打印案例164",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001117",
+      "io-q-001177",
+      "io-q-000453"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-165",
+    "title": "串口命令案例165",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000424",
+      "io-q-000700",
+      "io-q-001615"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-166",
+    "title": "I2C传感器案例166",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000281",
+      "io-q-002033",
+      "io-q-002204"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-167",
+    "title": "SPI显示屏案例167",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000558",
+      "io-q-000117",
+      "io-q-002579"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-168",
+    "title": "ADC采样案例168",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002651",
+      "io-q-003085",
+      "io-q-001144"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-169",
+    "title": "温湿度采集案例169",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001816",
+      "io-q-003530",
+      "io-q-000225"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-170",
+    "title": "OLED显示案例170",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001280",
+      "io-q-000641",
+      "io-q-000688"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-171",
+    "title": "超声波测距案例171",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000546",
+      "io-q-002607",
+      "io-q-001678"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-172",
+    "title": "电机控制案例172",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001205",
+      "io-q-002357",
+      "io-q-001113"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-173",
+    "title": "RTOS任务案例173",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002126",
+      "io-q-000408",
+      "io-q-003612"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-174",
+    "title": "MQTT上报案例174",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001900",
+      "io-q-001867",
+      "io-q-002112"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-175",
+    "title": "环境监测案例175",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003394",
+      "io-q-001682",
+      "io-q-003415"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-176",
+    "title": "IoT面试案例176",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001776",
+      "io-q-001713",
+      "io-q-000806"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-177",
+    "title": "点亮LED案例177",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001446",
+      "io-q-002522",
+      "io-q-000429"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-178",
+    "title": "按键控制案例178",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003608",
+      "io-q-002933",
+      "io-q-003662"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-179",
+    "title": "按键消抖案例179",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002060",
+      "io-q-001104",
+      "io-q-003613"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-180",
+    "title": "流水灯案例180",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001062",
+      "io-q-001627",
+      "io-q-002373"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-181",
+    "title": "蜂鸣器案例181",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002281",
+      "io-q-001556",
+      "io-q-002445"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-182",
+    "title": "PWM调光案例182",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002527",
+      "io-q-003098",
+      "io-q-000090"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-183",
+    "title": "PWM舵机案例183",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000987",
+      "io-q-003463",
+      "io-q-002730"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-184",
+    "title": "定时器中断案例184",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002362",
+      "io-q-002089",
+      "io-q-002029"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-185",
+    "title": "外部中断案例185",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002426",
+      "io-q-002458",
+      "io-q-001081"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-186",
+    "title": "串口打印案例186",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003162",
+      "io-q-001325",
+      "io-q-001774"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-187",
+    "title": "串口命令案例187",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002802",
+      "io-q-000378",
+      "io-q-000606"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-188",
+    "title": "I2C传感器案例188",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001930",
+      "io-q-001671",
+      "io-q-002850"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-189",
+    "title": "SPI显示屏案例189",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000145",
+      "io-q-000645",
+      "io-q-000944"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-190",
+    "title": "ADC采样案例190",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001074",
+      "io-q-003532",
+      "io-q-002301"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-191",
+    "title": "温湿度采集案例191",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001472",
+      "io-q-000640",
+      "io-q-003685"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-192",
+    "title": "OLED显示案例192",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002774",
+      "io-q-001987",
+      "io-q-002716"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-193",
+    "title": "超声波测距案例193",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001995",
+      "io-q-001048",
+      "io-q-003161"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-194",
+    "title": "电机控制案例194",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003279",
+      "io-q-001005",
+      "io-q-002917"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-195",
+    "title": "RTOS任务案例195",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000250",
+      "io-q-001485",
+      "io-q-002245"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-196",
+    "title": "MQTT上报案例196",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000573",
+      "io-q-001759",
+      "io-q-000596"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-197",
+    "title": "环境监测案例197",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003699",
+      "io-q-000368",
+      "io-q-003054"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-198",
+    "title": "IoT面试案例198",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003062",
+      "io-q-002552",
+      "io-q-001965"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-199",
+    "title": "点亮LED案例199",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000154",
+      "io-q-001986",
+      "io-q-000148"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-200",
+    "title": "按键控制案例200",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003108",
+      "io-q-001729",
+      "io-q-000121"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-201",
+    "title": "按键消抖案例201",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000428",
+      "io-q-001322",
+      "io-q-001741"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-202",
+    "title": "流水灯案例202",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000912",
+      "io-q-000209",
+      "io-q-002990"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-203",
+    "title": "蜂鸣器案例203",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001966",
+      "io-q-002232",
+      "io-q-003121"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-204",
+    "title": "PWM调光案例204",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000731",
+      "io-q-001735",
+      "io-q-000957"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-205",
+    "title": "PWM舵机案例205",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002899",
+      "io-q-003345",
+      "io-q-001237"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-206",
+    "title": "定时器中断案例206",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002703",
+      "io-q-002029",
+      "io-q-002529"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-207",
+    "title": "外部中断案例207",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002447",
+      "io-q-003178",
+      "io-q-002116"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-208",
+    "title": "串口打印案例208",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001292",
+      "io-q-003584",
+      "io-q-003190"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-209",
+    "title": "串口命令案例209",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002169",
+      "io-q-002862",
+      "io-q-002445"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-210",
+    "title": "I2C传感器案例210",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001632",
+      "io-q-000456",
+      "io-q-002803"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-211",
+    "title": "SPI显示屏案例211",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003608",
+      "io-q-003598",
+      "io-q-002885"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-212",
+    "title": "ADC采样案例212",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002937",
+      "io-q-002845",
+      "io-q-002981"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-213",
+    "title": "温湿度采集案例213",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000699",
+      "io-q-003366",
+      "io-q-002522"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-214",
+    "title": "OLED显示案例214",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000707",
+      "io-q-002362",
+      "io-q-003304"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-215",
+    "title": "超声波测距案例215",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001257",
+      "io-q-002295",
+      "io-q-002299"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-216",
+    "title": "电机控制案例216",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003654",
+      "io-q-000162",
+      "io-q-001969"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-217",
+    "title": "RTOS任务案例217",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000050",
+      "io-q-002291",
+      "io-q-002875"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-218",
+    "title": "MQTT上报案例218",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000441",
+      "io-q-000644",
+      "io-q-002134"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-219",
+    "title": "环境监测案例219",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003255",
+      "io-q-002527",
+      "io-q-003338"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-220",
+    "title": "IoT面试案例220",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000901",
+      "io-q-000357",
+      "io-q-003218"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-221",
+    "title": "点亮LED案例221",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000743",
+      "io-q-001960",
+      "io-q-003552"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-222",
+    "title": "按键控制案例222",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003238",
+      "io-q-000088",
+      "io-q-001264"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-223",
+    "title": "按键消抖案例223",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001169",
+      "io-q-003326",
+      "io-q-000657"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-224",
+    "title": "流水灯案例224",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002213",
+      "io-q-001617",
+      "io-q-001400"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-225",
+    "title": "蜂鸣器案例225",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002598",
+      "io-q-001612",
+      "io-q-000975"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-226",
+    "title": "PWM调光案例226",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001588",
+      "io-q-002330",
+      "io-q-002731"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-227",
+    "title": "PWM舵机案例227",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000520",
+      "io-q-002508",
+      "io-q-003590"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-228",
+    "title": "定时器中断案例228",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002948",
+      "io-q-001861",
+      "io-q-000886"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-229",
+    "title": "外部中断案例229",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000295",
+      "io-q-002922",
+      "io-q-001233"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-230",
+    "title": "串口打印案例230",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002476",
+      "io-q-002538",
+      "io-q-000165"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-231",
+    "title": "串口命令案例231",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002511",
+      "io-q-003226",
+      "io-q-000469"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-232",
+    "title": "I2C传感器案例232",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002045",
+      "io-q-001099",
+      "io-q-000257"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-233",
+    "title": "SPI显示屏案例233",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002694",
+      "io-q-003493",
+      "io-q-002774"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-234",
+    "title": "ADC采样案例234",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001950",
+      "io-q-001398",
+      "io-q-002601"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-235",
+    "title": "温湿度采集案例235",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002237",
+      "io-q-003073",
+      "io-q-000767"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-236",
+    "title": "OLED显示案例236",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001510",
+      "io-q-000987",
+      "io-q-000600"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-237",
+    "title": "超声波测距案例237",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003425",
+      "io-q-000970",
+      "io-q-001957"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-238",
+    "title": "电机控制案例238",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002240",
+      "io-q-003395",
+      "io-q-000349"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-239",
+    "title": "RTOS任务案例239",
+    "description": "通过RTOS任务掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001868",
+      "io-q-003235",
+      "io-q-000698"
+    ],
+    "tags": [
+      "RTOS任务"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-240",
+    "title": "MQTT上报案例240",
+    "description": "通过MQTT上报掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001518",
+      "io-q-000996",
+      "io-q-000340"
+    ],
+    "tags": [
+      "MQTT上报"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-241",
+    "title": "环境监测案例241",
+    "description": "通过环境监测掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002946",
+      "io-q-003574",
+      "io-q-000085"
+    ],
+    "tags": [
+      "环境监测"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-242",
+    "title": "IoT面试案例242",
+    "description": "通过IoT面试掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003495",
+      "io-q-000669",
+      "io-q-001045"
+    ],
+    "tags": [
+      "IoT面试"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-243",
+    "title": "点亮LED案例243",
+    "description": "通过点亮LED掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000449",
+      "io-q-000488",
+      "io-q-002973"
+    ],
+    "tags": [
+      "点亮LED"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-244",
+    "title": "按键控制案例244",
+    "description": "通过按键控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001046",
+      "io-q-000957",
+      "io-q-003530"
+    ],
+    "tags": [
+      "按键控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-245",
+    "title": "按键消抖案例245",
+    "description": "通过按键消抖掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003371",
+      "io-q-001462",
+      "io-q-002059"
+    ],
+    "tags": [
+      "按键消抖"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-246",
+    "title": "流水灯案例246",
+    "description": "通过流水灯掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003236",
+      "io-q-002311",
+      "io-q-003010"
+    ],
+    "tags": [
+      "流水灯"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-247",
+    "title": "蜂鸣器案例247",
+    "description": "通过蜂鸣器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000551",
+      "io-q-000662",
+      "io-q-001454"
+    ],
+    "tags": [
+      "蜂鸣器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-248",
+    "title": "PWM调光案例248",
+    "description": "通过PWM调光掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002520",
+      "io-q-002546",
+      "io-q-000623"
+    ],
+    "tags": [
+      "PWM调光"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-249",
+    "title": "PWM舵机案例249",
+    "description": "通过PWM舵机掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001106",
+      "io-q-001699",
+      "io-q-002466"
+    ],
+    "tags": [
+      "PWM舵机"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-250",
+    "title": "定时器中断案例250",
+    "description": "通过定时器中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000612",
+      "io-q-000622",
+      "io-q-000884"
+    ],
+    "tags": [
+      "定时器中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-251",
+    "title": "外部中断案例251",
+    "description": "通过外部中断掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000379",
+      "io-q-002959",
+      "io-q-000910"
+    ],
+    "tags": [
+      "外部中断"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-252",
+    "title": "串口打印案例252",
+    "description": "通过串口打印掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001950",
+      "io-q-002606",
+      "io-q-003472"
+    ],
+    "tags": [
+      "串口打印"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-253",
+    "title": "串口命令案例253",
+    "description": "通过串口命令掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002568",
+      "io-q-003103",
+      "io-q-001769"
+    ],
+    "tags": [
+      "串口命令"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-254",
+    "title": "I2C传感器案例254",
+    "description": "通过I2C传感器掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000554",
+      "io-q-001836",
+      "io-q-001404"
+    ],
+    "tags": [
+      "I2C传感器"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-255",
+    "title": "SPI显示屏案例255",
+    "description": "通过SPI显示屏掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-003080",
+      "io-q-001141",
+      "io-q-001754"
+    ],
+    "tags": [
+      "SPI显示屏"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-256",
+    "title": "ADC采样案例256",
+    "description": "通过ADC采样掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000474",
+      "io-q-002865",
+      "io-q-003016"
+    ],
+    "tags": [
+      "ADC采样"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-257",
+    "title": "温湿度采集案例257",
+    "description": "通过温湿度采集掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-001613",
+      "io-q-003485",
+      "io-q-003063"
+    ],
+    "tags": [
+      "温湿度采集"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-258",
+    "title": "OLED显示案例258",
+    "description": "通过OLED显示掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-000874",
+      "io-q-000670",
+      "io-q-003673"
+    ],
+    "tags": [
+      "OLED显示"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-259",
+    "title": "超声波测距案例259",
+    "description": "通过超声波测距掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002406",
+      "io-q-001797",
+      "io-q-000408"
+    ],
+    "tags": [
+      "超声波测距"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-case-260",
+    "title": "电机控制案例260",
+    "description": "通过电机控制掌握IoT",
+    "difficulty": "hard",
+    "duration": 60,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方案",
+        "description": "硬件"
+      },
+      {
+        "order": 3,
+        "title": "实现",
+        "description": "代码"
+      },
+      {
+        "order": 4,
+        "title": "验证",
+        "description": "测试"
+      }
+    ],
+    "relatedQuestionIds": [
+      "io-q-002154",
+      "io-q-000507",
+      "io-q-001244"
+    ],
+    "tags": [
+      "电机控制"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

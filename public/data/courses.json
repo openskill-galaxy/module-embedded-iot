@@ -1,0 +1,520 @@
+[
+  {
+    "id": "io-course-01",
+    "order": 1,
+    "slug": "IoT入门",
+    "title": "嵌入式系统与物联网入门",
+    "description": "嵌入式定义、物联网架构、学习路线。",
+    "estimatedHours": 4,
+    "difficulty": "easy",
+    "tags": [
+      "嵌入式系统与物联网入门"
+    ],
+    "lessonIds": [
+      "io-lesson-001",
+      "io-lesson-002",
+      "io-lesson-003",
+      "io-lesson-004",
+      "io-lesson-005",
+      "io-lesson-006",
+      "io-lesson-007",
+      "io-lesson-008",
+      "io-lesson-009",
+      "io-lesson-010",
+      "io-lesson-011",
+      "io-lesson-012",
+      "io-lesson-013"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-02",
+    "order": 2,
+    "slug": "嵌入式C",
+    "title": "嵌入式C语言基础",
+    "description": "位操作、寄存器操作、volatile、指针。",
+    "estimatedHours": 8,
+    "difficulty": "easy",
+    "tags": [
+      "嵌入式C语言基础"
+    ],
+    "lessonIds": [
+      "io-lesson-014",
+      "io-lesson-015",
+      "io-lesson-016",
+      "io-lesson-017",
+      "io-lesson-018",
+      "io-lesson-019",
+      "io-lesson-020",
+      "io-lesson-021",
+      "io-lesson-022",
+      "io-lesson-023",
+      "io-lesson-024",
+      "io-lesson-025",
+      "io-lesson-026"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-03",
+    "order": 3,
+    "slug": "MCU开发环境",
+    "title": "单片机、MCU与开发环境",
+    "description": "MCU选型、IDE环境、编译烧录。",
+    "estimatedHours": 6,
+    "difficulty": "easy",
+    "tags": [
+      "单片机、MCU与开发环境"
+    ],
+    "lessonIds": [
+      "io-lesson-027",
+      "io-lesson-028",
+      "io-lesson-029",
+      "io-lesson-030",
+      "io-lesson-031",
+      "io-lesson-032",
+      "io-lesson-033",
+      "io-lesson-034",
+      "io-lesson-035",
+      "io-lesson-036",
+      "io-lesson-037",
+      "io-lesson-038",
+      "io-lesson-039"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-04",
+    "order": 4,
+    "slug": "GPIO",
+    "title": "GPIO输入输出与按键LED",
+    "description": "GPIO设置、推挽开漏、上拉下拉、按键消抖。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "GPIO输入输出与按键LED"
+    ],
+    "lessonIds": [
+      "io-lesson-040",
+      "io-lesson-041",
+      "io-lesson-042",
+      "io-lesson-043",
+      "io-lesson-044",
+      "io-lesson-045",
+      "io-lesson-046",
+      "io-lesson-047",
+      "io-lesson-048",
+      "io-lesson-049",
+      "io-lesson-050",
+      "io-lesson-051",
+      "io-lesson-052"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-05",
+    "order": 5,
+    "slug": "定时器PWM",
+    "title": "定时器、计数器与PWM",
+    "description": "定时器模式、PWM输出、占空比、舵机控制。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "定时器、计数器与PWM"
+    ],
+    "lessonIds": [
+      "io-lesson-053",
+      "io-lesson-054",
+      "io-lesson-055",
+      "io-lesson-056",
+      "io-lesson-057",
+      "io-lesson-058",
+      "io-lesson-059",
+      "io-lesson-060",
+      "io-lesson-061",
+      "io-lesson-062",
+      "io-lesson-063",
+      "io-lesson-064",
+      "io-lesson-065"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-06",
+    "order": 6,
+    "slug": "中断",
+    "title": "中断系统与事件响应",
+    "description": "外部中断、中断优先级、NVIC、中断嵌套。",
+    "estimatedHours": 10,
+    "difficulty": "medium",
+    "tags": [
+      "中断系统与事件响应"
+    ],
+    "lessonIds": [
+      "io-lesson-066",
+      "io-lesson-067",
+      "io-lesson-068",
+      "io-lesson-069",
+      "io-lesson-070",
+      "io-lesson-071",
+      "io-lesson-072",
+      "io-lesson-073",
+      "io-lesson-074",
+      "io-lesson-075",
+      "io-lesson-076",
+      "io-lesson-077",
+      "io-lesson-078"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-07",
+    "order": 7,
+    "slug": "UART串口",
+    "title": "串口UART通信",
+    "description": "UART配置、中断接收、printf输出、协议解析。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "串口UART通信"
+    ],
+    "lessonIds": [
+      "io-lesson-079",
+      "io-lesson-080",
+      "io-lesson-081",
+      "io-lesson-082",
+      "io-lesson-083",
+      "io-lesson-084",
+      "io-lesson-085",
+      "io-lesson-086",
+      "io-lesson-087",
+      "io-lesson-088",
+      "io-lesson-089",
+      "io-lesson-090",
+      "io-lesson-091"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-08",
+    "order": 8,
+    "slug": "I2CSPI",
+    "title": "I2C、SPI与外设通信",
+    "description": "I2C时序、SPI通信、传感器读取、LCD驱动。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "I2C、SPI与外设通信"
+    ],
+    "lessonIds": [
+      "io-lesson-092",
+      "io-lesson-093",
+      "io-lesson-094",
+      "io-lesson-095",
+      "io-lesson-096",
+      "io-lesson-097",
+      "io-lesson-098",
+      "io-lesson-099",
+      "io-lesson-100",
+      "io-lesson-101",
+      "io-lesson-102",
+      "io-lesson-103",
+      "io-lesson-104"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-09",
+    "order": 9,
+    "slug": "ADC模拟",
+    "title": "ADC、DAC与模拟量采集",
+    "description": "ADC分辨率、参考电压、DMA传输、模拟采集。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "ADC、DAC与模拟量采集"
+    ],
+    "lessonIds": [
+      "io-lesson-105",
+      "io-lesson-106",
+      "io-lesson-107",
+      "io-lesson-108",
+      "io-lesson-109",
+      "io-lesson-110",
+      "io-lesson-111",
+      "io-lesson-112",
+      "io-lesson-113",
+      "io-lesson-114",
+      "io-lesson-115",
+      "io-lesson-116",
+      "io-lesson-117"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-10",
+    "order": 10,
+    "slug": "传感器执行器",
+    "title": "传感器、执行器与硬件接口",
+    "description": "温湿度、光敏、超声波、电机、继电器。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "传感器、执行器与硬件接口"
+    ],
+    "lessonIds": [
+      "io-lesson-118",
+      "io-lesson-119",
+      "io-lesson-120",
+      "io-lesson-121",
+      "io-lesson-122",
+      "io-lesson-123",
+      "io-lesson-124",
+      "io-lesson-125",
+      "io-lesson-126",
+      "io-lesson-127",
+      "io-lesson-128",
+      "io-lesson-129",
+      "io-lesson-130"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-11",
+    "order": 11,
+    "slug": "调试烧录",
+    "title": "嵌入式调试、烧录与故障排查",
+    "description": "JTAG/SWD调试、printf、逻辑分析仪、排错。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "嵌入式调试、烧录与故障排查"
+    ],
+    "lessonIds": [
+      "io-lesson-131",
+      "io-lesson-132",
+      "io-lesson-133",
+      "io-lesson-134",
+      "io-lesson-135",
+      "io-lesson-136",
+      "io-lesson-137",
+      "io-lesson-138",
+      "io-lesson-139",
+      "io-lesson-140",
+      "io-lesson-141",
+      "io-lesson-142",
+      "io-lesson-143"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-12",
+    "order": 12,
+    "slug": "RTOS",
+    "title": "RTOS入门、任务与调度",
+    "description": "RTOS概念、任务创建、调度、队列、信号量。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "RTOS入门、任务与调度"
+    ],
+    "lessonIds": [
+      "io-lesson-144",
+      "io-lesson-145",
+      "io-lesson-146",
+      "io-lesson-147",
+      "io-lesson-148",
+      "io-lesson-149",
+      "io-lesson-150",
+      "io-lesson-151",
+      "io-lesson-152",
+      "io-lesson-153",
+      "io-lesson-154",
+      "io-lesson-155",
+      "io-lesson-156"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-13",
+    "order": 13,
+    "slug": "物联网通信",
+    "title": "物联网通信、MQTT与云平台基础",
+    "description": "WiFi/Bluetooth、MQTT协议、云平台接入。",
+    "estimatedHours": 10,
+    "difficulty": "hard",
+    "tags": [
+      "物联网通信、MQTT与云平台基础"
+    ],
+    "lessonIds": [
+      "io-lesson-157",
+      "io-lesson-158",
+      "io-lesson-159",
+      "io-lesson-160",
+      "io-lesson-161",
+      "io-lesson-162",
+      "io-lesson-163",
+      "io-lesson-164",
+      "io-lesson-165",
+      "io-lesson-166",
+      "io-lesson-167",
+      "io-lesson-168",
+      "io-lesson-169"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-course-14",
+    "order": 14,
+    "slug": "IoT项目面试",
+    "title": "嵌入式综合项目、课程设计与面试训练",
+    "description": "综合项目、课程设计、面试题。",
+    "estimatedHours": 8,
+    "difficulty": "hard",
+    "tags": [
+      "嵌入式综合项目、课程设计与面试训练"
+    ],
+    "lessonIds": [
+      "io-lesson-170",
+      "io-lesson-171",
+      "io-lesson-172",
+      "io-lesson-173",
+      "io-lesson-174",
+      "io-lesson-175",
+      "io-lesson-176",
+      "io-lesson-177",
+      "io-lesson-178",
+      "io-lesson-179",
+      "io-lesson-180",
+      "io-lesson-181",
+      "io-lesson-182"
+    ],
+    "totalLessons": 13,
+    "totalQuestions": 0,
+    "prerequisites": [],
+    "outcomes": [
+      "理解嵌入式系统",
+      "掌握GPIO/定时器",
+      "能使用UART/I2C",
+      "完成物联网项目"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

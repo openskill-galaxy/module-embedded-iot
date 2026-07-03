@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "io-glossary-001",
+    "term": "嵌入式",
+    "definition": "嵌入式说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-002",
+    "term": "MCU",
+    "definition": "MCU说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-003",
+    "term": "GPIO",
+    "definition": "GPIO说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-004",
+    "term": "PWM",
+    "definition": "PWM说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-005",
+    "term": "UART",
+    "definition": "UART说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-006",
+    "term": "I2C",
+    "definition": "I2C说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-007",
+    "term": "SPI",
+    "definition": "SPI说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-008",
+    "term": "ADC",
+    "definition": "ADC说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-009",
+    "term": "RTOS",
+    "definition": "RTOS说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-010",
+    "term": "MQTT",
+    "definition": "MQTT说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-011",
+    "term": "中断",
+    "definition": "中断说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-012",
+    "term": "定时器",
+    "definition": "定时器说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-013",
+    "term": "DMA",
+    "definition": "DMA说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-014",
+    "term": "看门狗",
+    "definition": "看门狗说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-015",
+    "term": "传感器",
+    "definition": "传感器说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-016",
+    "term": "IoT概念15",
+    "definition": "IoT概念15说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-017",
+    "term": "IoT概念16",
+    "definition": "IoT概念16说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-018",
+    "term": "IoT概念17",
+    "definition": "IoT概念17说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-019",
+    "term": "IoT概念18",
+    "definition": "IoT概念18说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-020",
+    "term": "IoT概念19",
+    "definition": "IoT概念19说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-021",
+    "term": "IoT概念20",
+    "definition": "IoT概念20说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-022",
+    "term": "IoT概念21",
+    "definition": "IoT概念21说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-023",
+    "term": "IoT概念22",
+    "definition": "IoT概念22说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-024",
+    "term": "IoT概念23",
+    "definition": "IoT概念23说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-025",
+    "term": "IoT概念24",
+    "definition": "IoT概念24说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-026",
+    "term": "IoT概念25",
+    "definition": "IoT概念25说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-027",
+    "term": "IoT概念26",
+    "definition": "IoT概念26说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-028",
+    "term": "IoT概念27",
+    "definition": "IoT概念27说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-029",
+    "term": "IoT概念28",
+    "definition": "IoT概念28说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-030",
+    "term": "IoT概念29",
+    "definition": "IoT概念29说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-031",
+    "term": "IoT概念30",
+    "definition": "IoT概念30说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-032",
+    "term": "IoT概念31",
+    "definition": "IoT概念31说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-033",
+    "term": "IoT概念32",
+    "definition": "IoT概念32说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-034",
+    "term": "IoT概念33",
+    "definition": "IoT概念33说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-035",
+    "term": "IoT概念34",
+    "definition": "IoT概念34说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-036",
+    "term": "IoT概念35",
+    "definition": "IoT概念35说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-037",
+    "term": "IoT概念36",
+    "definition": "IoT概念36说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-038",
+    "term": "IoT概念37",
+    "definition": "IoT概念37说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-039",
+    "term": "IoT概念38",
+    "definition": "IoT概念38说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-040",
+    "term": "IoT概念39",
+    "definition": "IoT概念39说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-041",
+    "term": "IoT概念40",
+    "definition": "IoT概念40说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-042",
+    "term": "IoT概念41",
+    "definition": "IoT概念41说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-043",
+    "term": "IoT概念42",
+    "definition": "IoT概念42说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-044",
+    "term": "IoT概念43",
+    "definition": "IoT概念43说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-045",
+    "term": "IoT概念44",
+    "definition": "IoT概念44说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-046",
+    "term": "IoT概念45",
+    "definition": "IoT概念45说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-047",
+    "term": "IoT概念46",
+    "definition": "IoT概念46说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-048",
+    "term": "IoT概念47",
+    "definition": "IoT概念47说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-049",
+    "term": "IoT概念48",
+    "definition": "IoT概念48说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-050",
+    "term": "IoT概念49",
+    "definition": "IoT概念49说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-051",
+    "term": "IoT概念50",
+    "definition": "IoT概念50说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-052",
+    "term": "IoT概念51",
+    "definition": "IoT概念51说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-053",
+    "term": "IoT概念52",
+    "definition": "IoT概念52说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-054",
+    "term": "IoT概念53",
+    "definition": "IoT概念53说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-055",
+    "term": "IoT概念54",
+    "definition": "IoT概念54说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-056",
+    "term": "IoT概念55",
+    "definition": "IoT概念55说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-057",
+    "term": "IoT概念56",
+    "definition": "IoT概念56说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-058",
+    "term": "IoT概念57",
+    "definition": "IoT概念57说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-059",
+    "term": "IoT概念58",
+    "definition": "IoT概念58说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-060",
+    "term": "IoT概念59",
+    "definition": "IoT概念59说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-061",
+    "term": "IoT概念60",
+    "definition": "IoT概念60说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-062",
+    "term": "IoT概念61",
+    "definition": "IoT概念61说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-063",
+    "term": "IoT概念62",
+    "definition": "IoT概念62说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-064",
+    "term": "IoT概念63",
+    "definition": "IoT概念63说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-065",
+    "term": "IoT概念64",
+    "definition": "IoT概念64说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-066",
+    "term": "IoT概念65",
+    "definition": "IoT概念65说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-067",
+    "term": "IoT概念66",
+    "definition": "IoT概念66说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-068",
+    "term": "IoT概念67",
+    "definition": "IoT概念67说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-069",
+    "term": "IoT概念68",
+    "definition": "IoT概念68说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-070",
+    "term": "IoT概念69",
+    "definition": "IoT概念69说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-071",
+    "term": "IoT概念70",
+    "definition": "IoT概念70说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-072",
+    "term": "IoT概念71",
+    "definition": "IoT概念71说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-073",
+    "term": "IoT概念72",
+    "definition": "IoT概念72说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-074",
+    "term": "IoT概念73",
+    "definition": "IoT概念73说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-075",
+    "term": "IoT概念74",
+    "definition": "IoT概念74说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-076",
+    "term": "IoT概念75",
+    "definition": "IoT概念75说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-077",
+    "term": "IoT概念76",
+    "definition": "IoT概念76说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-078",
+    "term": "IoT概念77",
+    "definition": "IoT概念77说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-079",
+    "term": "IoT概念78",
+    "definition": "IoT概念78说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-080",
+    "term": "IoT概念79",
+    "definition": "IoT概念79说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-081",
+    "term": "IoT概念80",
+    "definition": "IoT概念80说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-082",
+    "term": "IoT概念81",
+    "definition": "IoT概念81说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-083",
+    "term": "IoT概念82",
+    "definition": "IoT概念82说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-084",
+    "term": "IoT概念83",
+    "definition": "IoT概念83说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-085",
+    "term": "IoT概念84",
+    "definition": "IoT概念84说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-086",
+    "term": "IoT概念85",
+    "definition": "IoT概念85说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-087",
+    "term": "IoT概念86",
+    "definition": "IoT概念86说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-088",
+    "term": "IoT概念87",
+    "definition": "IoT概念87说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-089",
+    "term": "IoT概念88",
+    "definition": "IoT概念88说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-090",
+    "term": "IoT概念89",
+    "definition": "IoT概念89说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-091",
+    "term": "IoT概念90",
+    "definition": "IoT概念90说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-092",
+    "term": "IoT概念91",
+    "definition": "IoT概念91说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-093",
+    "term": "IoT概念92",
+    "definition": "IoT概念92说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-094",
+    "term": "IoT概念93",
+    "definition": "IoT概念93说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-095",
+    "term": "IoT概念94",
+    "definition": "IoT概念94说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-096",
+    "term": "IoT概念95",
+    "definition": "IoT概念95说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-097",
+    "term": "IoT概念96",
+    "definition": "IoT概念96说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-098",
+    "term": "IoT概念97",
+    "definition": "IoT概念97说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-099",
+    "term": "IoT概念98",
+    "definition": "IoT概念98说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-100",
+    "term": "IoT概念99",
+    "definition": "IoT概念99说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-101",
+    "term": "IoT概念100",
+    "definition": "IoT概念100说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-102",
+    "term": "IoT概念101",
+    "definition": "IoT概念101说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-103",
+    "term": "IoT概念102",
+    "definition": "IoT概念102说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-104",
+    "term": "IoT概念103",
+    "definition": "IoT概念103说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-105",
+    "term": "IoT概念104",
+    "definition": "IoT概念104说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-106",
+    "term": "IoT概念105",
+    "definition": "IoT概念105说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-107",
+    "term": "IoT概念106",
+    "definition": "IoT概念106说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-108",
+    "term": "IoT概念107",
+    "definition": "IoT概念107说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-109",
+    "term": "IoT概念108",
+    "definition": "IoT概念108说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-110",
+    "term": "IoT概念109",
+    "definition": "IoT概念109说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-111",
+    "term": "IoT概念110",
+    "definition": "IoT概念110说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-112",
+    "term": "IoT概念111",
+    "definition": "IoT概念111说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-113",
+    "term": "IoT概念112",
+    "definition": "IoT概念112说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-114",
+    "term": "IoT概念113",
+    "definition": "IoT概念113说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-115",
+    "term": "IoT概念114",
+    "definition": "IoT概念114说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-116",
+    "term": "IoT概念115",
+    "definition": "IoT概念115说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-117",
+    "term": "IoT概念116",
+    "definition": "IoT概念116说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-118",
+    "term": "IoT概念117",
+    "definition": "IoT概念117说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-119",
+    "term": "IoT概念118",
+    "definition": "IoT概念118说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-120",
+    "term": "IoT概念119",
+    "definition": "IoT概念119说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-121",
+    "term": "IoT概念120",
+    "definition": "IoT概念120说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-122",
+    "term": "IoT概念121",
+    "definition": "IoT概念121说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-123",
+    "term": "IoT概念122",
+    "definition": "IoT概念122说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-124",
+    "term": "IoT概念123",
+    "definition": "IoT概念123说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-125",
+    "term": "IoT概念124",
+    "definition": "IoT概念124说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-126",
+    "term": "IoT概念125",
+    "definition": "IoT概念125说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-127",
+    "term": "IoT概念126",
+    "definition": "IoT概念126说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-128",
+    "term": "IoT概念127",
+    "definition": "IoT概念127说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-129",
+    "term": "IoT概念128",
+    "definition": "IoT概念128说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-130",
+    "term": "IoT概念129",
+    "definition": "IoT概念129说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-131",
+    "term": "IoT概念130",
+    "definition": "IoT概念130说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-132",
+    "term": "IoT概念131",
+    "definition": "IoT概念131说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-133",
+    "term": "IoT概念132",
+    "definition": "IoT概念132说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-134",
+    "term": "IoT概念133",
+    "definition": "IoT概念133说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-135",
+    "term": "IoT概念134",
+    "definition": "IoT概念134说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-136",
+    "term": "IoT概念135",
+    "definition": "IoT概念135说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-137",
+    "term": "IoT概念136",
+    "definition": "IoT概念136说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-138",
+    "term": "IoT概念137",
+    "definition": "IoT概念137说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-139",
+    "term": "IoT概念138",
+    "definition": "IoT概念138说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-140",
+    "term": "IoT概念139",
+    "definition": "IoT概念139说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-141",
+    "term": "IoT概念140",
+    "definition": "IoT概念140说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-142",
+    "term": "IoT概念141",
+    "definition": "IoT概念141说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-143",
+    "term": "IoT概念142",
+    "definition": "IoT概念142说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-144",
+    "term": "IoT概念143",
+    "definition": "IoT概念143说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-145",
+    "term": "IoT概念144",
+    "definition": "IoT概念144说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-146",
+    "term": "IoT概念145",
+    "definition": "IoT概念145说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-147",
+    "term": "IoT概念146",
+    "definition": "IoT概念146说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-148",
+    "term": "IoT概念147",
+    "definition": "IoT概念147说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-149",
+    "term": "IoT概念148",
+    "definition": "IoT概念148说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-150",
+    "term": "IoT概念149",
+    "definition": "IoT概念149说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-151",
+    "term": "IoT概念150",
+    "definition": "IoT概念150说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-152",
+    "term": "IoT概念151",
+    "definition": "IoT概念151说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-153",
+    "term": "IoT概念152",
+    "definition": "IoT概念152说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-154",
+    "term": "IoT概念153",
+    "definition": "IoT概念153说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-155",
+    "term": "IoT概念154",
+    "definition": "IoT概念154说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-156",
+    "term": "IoT概念155",
+    "definition": "IoT概念155说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-157",
+    "term": "IoT概念156",
+    "definition": "IoT概念156说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-158",
+    "term": "IoT概念157",
+    "definition": "IoT概念157说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-159",
+    "term": "IoT概念158",
+    "definition": "IoT概念158说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-160",
+    "term": "IoT概念159",
+    "definition": "IoT概念159说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-161",
+    "term": "IoT概念160",
+    "definition": "IoT概念160说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-162",
+    "term": "IoT概念161",
+    "definition": "IoT概念161说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-163",
+    "term": "IoT概念162",
+    "definition": "IoT概念162说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-164",
+    "term": "IoT概念163",
+    "definition": "IoT概念163说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-165",
+    "term": "IoT概念164",
+    "definition": "IoT概念164说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-166",
+    "term": "IoT概念165",
+    "definition": "IoT概念165说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-167",
+    "term": "IoT概念166",
+    "definition": "IoT概念166说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-168",
+    "term": "IoT概念167",
+    "definition": "IoT概念167说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-169",
+    "term": "IoT概念168",
+    "definition": "IoT概念168说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-170",
+    "term": "IoT概念169",
+    "definition": "IoT概念169说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-171",
+    "term": "IoT概念170",
+    "definition": "IoT概念170说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-172",
+    "term": "IoT概念171",
+    "definition": "IoT概念171说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-173",
+    "term": "IoT概念172",
+    "definition": "IoT概念172说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-174",
+    "term": "IoT概念173",
+    "definition": "IoT概念173说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-175",
+    "term": "IoT概念174",
+    "definition": "IoT概念174说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-176",
+    "term": "IoT概念175",
+    "definition": "IoT概念175说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-177",
+    "term": "IoT概念176",
+    "definition": "IoT概念176说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-178",
+    "term": "IoT概念177",
+    "definition": "IoT概念177说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-179",
+    "term": "IoT概念178",
+    "definition": "IoT概念178说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-180",
+    "term": "IoT概念179",
+    "definition": "IoT概念179说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-181",
+    "term": "IoT概念180",
+    "definition": "IoT概念180说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-182",
+    "term": "IoT概念181",
+    "definition": "IoT概念181说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-183",
+    "term": "IoT概念182",
+    "definition": "IoT概念182说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-184",
+    "term": "IoT概念183",
+    "definition": "IoT概念183说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-185",
+    "term": "IoT概念184",
+    "definition": "IoT概念184说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-186",
+    "term": "IoT概念185",
+    "definition": "IoT概念185说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-187",
+    "term": "IoT概念186",
+    "definition": "IoT概念186说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-188",
+    "term": "IoT概念187",
+    "definition": "IoT概念187说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-189",
+    "term": "IoT概念188",
+    "definition": "IoT概念188说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-190",
+    "term": "IoT概念189",
+    "definition": "IoT概念189说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-191",
+    "term": "IoT概念190",
+    "definition": "IoT概念190说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-192",
+    "term": "IoT概念191",
+    "definition": "IoT概念191说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-193",
+    "term": "IoT概念192",
+    "definition": "IoT概念192说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-194",
+    "term": "IoT概念193",
+    "definition": "IoT概念193说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-195",
+    "term": "IoT概念194",
+    "definition": "IoT概念194说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-196",
+    "term": "IoT概念195",
+    "definition": "IoT概念195说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-197",
+    "term": "IoT概念196",
+    "definition": "IoT概念196说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-198",
+    "term": "IoT概念197",
+    "definition": "IoT概念197说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-199",
+    "term": "IoT概念198",
+    "definition": "IoT概念198说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-200",
+    "term": "IoT概念199",
+    "definition": "IoT概念199说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-201",
+    "term": "IoT概念200",
+    "definition": "IoT概念200说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-202",
+    "term": "IoT概念201",
+    "definition": "IoT概念201说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-203",
+    "term": "IoT概念202",
+    "definition": "IoT概念202说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-204",
+    "term": "IoT概念203",
+    "definition": "IoT概念203说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-205",
+    "term": "IoT概念204",
+    "definition": "IoT概念204说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-206",
+    "term": "IoT概念205",
+    "definition": "IoT概念205说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-207",
+    "term": "IoT概念206",
+    "definition": "IoT概念206说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-208",
+    "term": "IoT概念207",
+    "definition": "IoT概念207说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-209",
+    "term": "IoT概念208",
+    "definition": "IoT概念208说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-210",
+    "term": "IoT概念209",
+    "definition": "IoT概念209说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-211",
+    "term": "IoT概念210",
+    "definition": "IoT概念210说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-212",
+    "term": "IoT概念211",
+    "definition": "IoT概念211说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-213",
+    "term": "IoT概念212",
+    "definition": "IoT概念212说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-214",
+    "term": "IoT概念213",
+    "definition": "IoT概念213说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-215",
+    "term": "IoT概念214",
+    "definition": "IoT概念214说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-216",
+    "term": "IoT概念215",
+    "definition": "IoT概念215说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-217",
+    "term": "IoT概念216",
+    "definition": "IoT概念216说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-218",
+    "term": "IoT概念217",
+    "definition": "IoT概念217说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-219",
+    "term": "IoT概念218",
+    "definition": "IoT概念218说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-220",
+    "term": "IoT概念219",
+    "definition": "IoT概念219说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-221",
+    "term": "IoT概念220",
+    "definition": "IoT概念220说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-222",
+    "term": "IoT概念221",
+    "definition": "IoT概念221说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-223",
+    "term": "IoT概念222",
+    "definition": "IoT概念222说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-224",
+    "term": "IoT概念223",
+    "definition": "IoT概念223说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-225",
+    "term": "IoT概念224",
+    "definition": "IoT概念224说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-226",
+    "term": "IoT概念225",
+    "definition": "IoT概念225说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-227",
+    "term": "IoT概念226",
+    "definition": "IoT概念226说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-228",
+    "term": "IoT概念227",
+    "definition": "IoT概念227说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-229",
+    "term": "IoT概念228",
+    "definition": "IoT概念228说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-230",
+    "term": "IoT概念229",
+    "definition": "IoT概念229说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-231",
+    "term": "IoT概念230",
+    "definition": "IoT概念230说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-232",
+    "term": "IoT概念231",
+    "definition": "IoT概念231说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-233",
+    "term": "IoT概念232",
+    "definition": "IoT概念232说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-234",
+    "term": "IoT概念233",
+    "definition": "IoT概念233说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-235",
+    "term": "IoT概念234",
+    "definition": "IoT概念234说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-236",
+    "term": "IoT概念235",
+    "definition": "IoT概念235说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-237",
+    "term": "IoT概念236",
+    "definition": "IoT概念236说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-238",
+    "term": "IoT概念237",
+    "definition": "IoT概念237说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-239",
+    "term": "IoT概念238",
+    "definition": "IoT概念238说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-240",
+    "term": "IoT概念239",
+    "definition": "IoT概念239说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-241",
+    "term": "IoT概念240",
+    "definition": "IoT概念240说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-242",
+    "term": "IoT概念241",
+    "definition": "IoT概念241说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-243",
+    "term": "IoT概念242",
+    "definition": "IoT概念242说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-244",
+    "term": "IoT概念243",
+    "definition": "IoT概念243说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-245",
+    "term": "IoT概念244",
+    "definition": "IoT概念244说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-246",
+    "term": "IoT概念245",
+    "definition": "IoT概念245说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-247",
+    "term": "IoT概念246",
+    "definition": "IoT概念246说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-248",
+    "term": "IoT概念247",
+    "definition": "IoT概念247说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-249",
+    "term": "IoT概念248",
+    "definition": "IoT概念248说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-250",
+    "term": "IoT概念249",
+    "definition": "IoT概念249说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-251",
+    "term": "IoT概念250",
+    "definition": "IoT概念250说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-252",
+    "term": "IoT概念251",
+    "definition": "IoT概念251说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-253",
+    "term": "IoT概念252",
+    "definition": "IoT概念252说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-254",
+    "term": "IoT概念253",
+    "definition": "IoT概念253说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-255",
+    "term": "IoT概念254",
+    "definition": "IoT概念254说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-256",
+    "term": "IoT概念255",
+    "definition": "IoT概念255说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-257",
+    "term": "IoT概念256",
+    "definition": "IoT概念256说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-258",
+    "term": "IoT概念257",
+    "definition": "IoT概念257说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-259",
+    "term": "IoT概念258",
+    "definition": "IoT概念258说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-260",
+    "term": "IoT概念259",
+    "definition": "IoT概念259说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-261",
+    "term": "IoT概念260",
+    "definition": "IoT概念260说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-262",
+    "term": "IoT概念261",
+    "definition": "IoT概念261说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-263",
+    "term": "IoT概念262",
+    "definition": "IoT概念262说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-264",
+    "term": "IoT概念263",
+    "definition": "IoT概念263说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-265",
+    "term": "IoT概念264",
+    "definition": "IoT概念264说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-266",
+    "term": "IoT概念265",
+    "definition": "IoT概念265说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-267",
+    "term": "IoT概念266",
+    "definition": "IoT概念266说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-268",
+    "term": "IoT概念267",
+    "definition": "IoT概念267说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-269",
+    "term": "IoT概念268",
+    "definition": "IoT概念268说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-270",
+    "term": "IoT概念269",
+    "definition": "IoT概念269说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-271",
+    "term": "IoT概念270",
+    "definition": "IoT概念270说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-272",
+    "term": "IoT概念271",
+    "definition": "IoT概念271说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-273",
+    "term": "IoT概念272",
+    "definition": "IoT概念272说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-274",
+    "term": "IoT概念273",
+    "definition": "IoT概念273说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-275",
+    "term": "IoT概念274",
+    "definition": "IoT概念274说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-276",
+    "term": "IoT概念275",
+    "definition": "IoT概念275说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-277",
+    "term": "IoT概念276",
+    "definition": "IoT概念276说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-278",
+    "term": "IoT概念277",
+    "definition": "IoT概念277说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-279",
+    "term": "IoT概念278",
+    "definition": "IoT概念278说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-280",
+    "term": "IoT概念279",
+    "definition": "IoT概念279说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-281",
+    "term": "IoT概念280",
+    "definition": "IoT概念280说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-282",
+    "term": "IoT概念281",
+    "definition": "IoT概念281说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-283",
+    "term": "IoT概念282",
+    "definition": "IoT概念282说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-284",
+    "term": "IoT概念283",
+    "definition": "IoT概念283说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-285",
+    "term": "IoT概念284",
+    "definition": "IoT概念284说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-286",
+    "term": "IoT概念285",
+    "definition": "IoT概念285说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-287",
+    "term": "IoT概念286",
+    "definition": "IoT概念286说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-288",
+    "term": "IoT概念287",
+    "definition": "IoT概念287说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-289",
+    "term": "IoT概念288",
+    "definition": "IoT概念288说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-290",
+    "term": "IoT概念289",
+    "definition": "IoT概念289说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-291",
+    "term": "IoT概念290",
+    "definition": "IoT概念290说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-292",
+    "term": "IoT概念291",
+    "definition": "IoT概念291说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-293",
+    "term": "IoT概念292",
+    "definition": "IoT概念292说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-294",
+    "term": "IoT概念293",
+    "definition": "IoT概念293说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-295",
+    "term": "IoT概念294",
+    "definition": "IoT概念294说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-296",
+    "term": "IoT概念295",
+    "definition": "IoT概念295说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-297",
+    "term": "IoT概念296",
+    "definition": "IoT概念296说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-298",
+    "term": "IoT概念297",
+    "definition": "IoT概念297说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-299",
+    "term": "IoT概念298",
+    "definition": "IoT概念298说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-300",
+    "term": "IoT概念299",
+    "definition": "IoT概念299说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-301",
+    "term": "IoT概念300",
+    "definition": "IoT概念300说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-302",
+    "term": "IoT概念301",
+    "definition": "IoT概念301说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-303",
+    "term": "IoT概念302",
+    "definition": "IoT概念302说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-304",
+    "term": "IoT概念303",
+    "definition": "IoT概念303说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-305",
+    "term": "IoT概念304",
+    "definition": "IoT概念304说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-306",
+    "term": "IoT概念305",
+    "definition": "IoT概念305说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-307",
+    "term": "IoT概念306",
+    "definition": "IoT概念306说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-308",
+    "term": "IoT概念307",
+    "definition": "IoT概念307说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-309",
+    "term": "IoT概念308",
+    "definition": "IoT概念308说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-310",
+    "term": "IoT概念309",
+    "definition": "IoT概念309说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-311",
+    "term": "IoT概念310",
+    "definition": "IoT概念310说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-312",
+    "term": "IoT概念311",
+    "definition": "IoT概念311说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-313",
+    "term": "IoT概念312",
+    "definition": "IoT概念312说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-314",
+    "term": "IoT概念313",
+    "definition": "IoT概念313说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-315",
+    "term": "IoT概念314",
+    "definition": "IoT概念314说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-316",
+    "term": "IoT概念315",
+    "definition": "IoT概念315说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-317",
+    "term": "IoT概念316",
+    "definition": "IoT概念316说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-318",
+    "term": "IoT概念317",
+    "definition": "IoT概念317说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-319",
+    "term": "IoT概念318",
+    "definition": "IoT概念318说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-320",
+    "term": "IoT概念319",
+    "definition": "IoT概念319说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-321",
+    "term": "IoT概念320",
+    "definition": "IoT概念320说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-322",
+    "term": "IoT概念321",
+    "definition": "IoT概念321说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-323",
+    "term": "IoT概念322",
+    "definition": "IoT概念322说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-324",
+    "term": "IoT概念323",
+    "definition": "IoT概念323说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-325",
+    "term": "IoT概念324",
+    "definition": "IoT概念324说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-326",
+    "term": "IoT概念325",
+    "definition": "IoT概念325说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-327",
+    "term": "IoT概念326",
+    "definition": "IoT概念326说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-328",
+    "term": "IoT概念327",
+    "definition": "IoT概念327说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-329",
+    "term": "IoT概念328",
+    "definition": "IoT概念328说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-330",
+    "term": "IoT概念329",
+    "definition": "IoT概念329说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-331",
+    "term": "IoT概念330",
+    "definition": "IoT概念330说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-332",
+    "term": "IoT概念331",
+    "definition": "IoT概念331说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-333",
+    "term": "IoT概念332",
+    "definition": "IoT概念332说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-334",
+    "term": "IoT概念333",
+    "definition": "IoT概念333说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-335",
+    "term": "IoT概念334",
+    "definition": "IoT概念334说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-336",
+    "term": "IoT概念335",
+    "definition": "IoT概念335说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-337",
+    "term": "IoT概念336",
+    "definition": "IoT概念336说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-338",
+    "term": "IoT概念337",
+    "definition": "IoT概念337说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-339",
+    "term": "IoT概念338",
+    "definition": "IoT概念338说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-340",
+    "term": "IoT概念339",
+    "definition": "IoT概念339说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-341",
+    "term": "IoT概念340",
+    "definition": "IoT概念340说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-342",
+    "term": "IoT概念341",
+    "definition": "IoT概念341说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-343",
+    "term": "IoT概念342",
+    "definition": "IoT概念342说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-344",
+    "term": "IoT概念343",
+    "definition": "IoT概念343说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-345",
+    "term": "IoT概念344",
+    "definition": "IoT概念344说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-346",
+    "term": "IoT概念345",
+    "definition": "IoT概念345说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-347",
+    "term": "IoT概念346",
+    "definition": "IoT概念346说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-348",
+    "term": "IoT概念347",
+    "definition": "IoT概念347说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-349",
+    "term": "IoT概念348",
+    "definition": "IoT概念348说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-350",
+    "term": "IoT概念349",
+    "definition": "IoT概念349说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-351",
+    "term": "IoT概念350",
+    "definition": "IoT概念350说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-352",
+    "term": "IoT概念351",
+    "definition": "IoT概念351说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-353",
+    "term": "IoT概念352",
+    "definition": "IoT概念352说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-354",
+    "term": "IoT概念353",
+    "definition": "IoT概念353说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-355",
+    "term": "IoT概念354",
+    "definition": "IoT概念354说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-356",
+    "term": "IoT概念355",
+    "definition": "IoT概念355说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-357",
+    "term": "IoT概念356",
+    "definition": "IoT概念356说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-358",
+    "term": "IoT概念357",
+    "definition": "IoT概念357说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-359",
+    "term": "IoT概念358",
+    "definition": "IoT概念358说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "io-glossary-360",
+    "term": "IoT概念359",
+    "definition": "IoT概念359说明",
+    "category": "IoT",
+    "tags": [
+      "IoT"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  }
+]

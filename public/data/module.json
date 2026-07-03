@@ -1,0 +1,41 @@
+{
+  "id": "mod-embedded-iot",
+  "slug": "module-embedded-iot",
+  "title": "嵌入式C与物联网基础",
+  "subtitle": "面向电子信息和物联网学习者",
+  "description": "面向电子信息自动化计算机和物联网学习者的嵌入式CMCGPIOPWMUART中断I2CSPIADCRTOSMQTT与综合项目训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "嵌入式",
+    "物联网",
+    "单片机",
+    "C语言",
+    "STM32",
+    "传感器",
+    "RTOS",
+    "MQTT"
+  ],
+  "estimatedHours": 190,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "📡",
+  "repoUrl": "https://github.com/openskill-galaxy/module-embedded-iot",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 128
+  }
+}
