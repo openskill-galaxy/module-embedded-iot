@@ -1,562 +1,81 @@
 [
   {
-    "id": "io-route-01",
-    "slug": "IoT路线1",
-    "title": "IoT路线1",
-    "description": "IoT路线1",
-    "targetUser": "目标1",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线1"
+    "id": "mod-embedded-iot-route-1",
+    "slug": "professional-path",
+    "title": "嵌入式C与物联网基础 专业级成长路线",
+    "summary": "带您由浅入深、由原理到实战系统通关 嵌入式C与物联网基础 核心要点。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "嵌入式C与物联网基础 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-embedded-iot-c-1",
+        "lessonId": "mod-embedded-iot-l-1"
+      },
+      {
+        "order": 2,
+        "title": "嵌入式C与物联网基础 配置文件覆盖与属性解析",
+        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "courseId": "mod-embedded-iot-c-1",
+        "lessonId": "mod-embedded-iot-l-2"
+      },
+      {
+        "order": 3,
+        "title": "嵌入式C与物联网基础 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-embedded-iot-c-2",
+        "lessonId": "mod-embedded-iot-l-3"
+      },
+      {
+        "order": 4,
+        "title": "嵌入式C与物联网基础 核心控制器与数据校验机制",
+        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "courseId": "mod-embedded-iot-c-2",
+        "lessonId": "mod-embedded-iot-l-4"
+      },
+      {
+        "order": 5,
+        "title": "嵌入式C与物联网基础 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-embedded-iot-c-3",
+        "lessonId": "mod-embedded-iot-l-5"
+      },
+      {
+        "order": 6,
+        "title": "嵌入式C与物联网基础 可观测性日志与分布式链路监控",
+        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "courseId": "mod-embedded-iot-c-3",
+        "lessonId": "mod-embedded-iot-l-6"
+      }
+    ]
   },
   {
-    "id": "io-route-02",
-    "slug": "IoT路线2",
-    "title": "IoT路线2",
-    "description": "IoT路线2",
-    "targetUser": "目标2",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线2"
-  },
-  {
-    "id": "io-route-03",
-    "slug": "IoT路线3",
-    "title": "IoT路线3",
-    "description": "IoT路线3",
-    "targetUser": "目标3",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线3"
-  },
-  {
-    "id": "io-route-04",
-    "slug": "IoT路线4",
-    "title": "IoT路线4",
-    "description": "IoT路线4",
-    "targetUser": "目标4",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线4"
-  },
-  {
-    "id": "io-route-05",
-    "slug": "IoT路线5",
-    "title": "IoT路线5",
-    "description": "IoT路线5",
-    "targetUser": "目标5",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线5"
-  },
-  {
-    "id": "io-route-06",
-    "slug": "IoT路线6",
-    "title": "IoT路线6",
-    "description": "IoT路线6",
-    "targetUser": "目标6",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线6"
-  },
-  {
-    "id": "io-route-07",
-    "slug": "IoT路线7",
-    "title": "IoT路线7",
-    "description": "IoT路线7",
-    "targetUser": "目标7",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线7"
-  },
-  {
-    "id": "io-route-08",
-    "slug": "IoT路线8",
-    "title": "IoT路线8",
-    "description": "IoT路线8",
-    "targetUser": "目标8",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线8"
-  },
-  {
-    "id": "io-route-09",
-    "slug": "IoT路线9",
-    "title": "IoT路线9",
-    "description": "IoT路线9",
-    "targetUser": "目标9",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线9"
-  },
-  {
-    "id": "io-route-10",
-    "slug": "IoT路线10",
-    "title": "IoT路线10",
-    "description": "IoT路线10",
-    "targetUser": "目标10",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线10"
-  },
-  {
-    "id": "io-route-11",
-    "slug": "IoT路线11",
-    "title": "IoT路线11",
-    "description": "IoT路线11",
-    "targetUser": "目标11",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线11"
-  },
-  {
-    "id": "io-route-12",
-    "slug": "IoT路线12",
-    "title": "IoT路线12",
-    "description": "IoT路线12",
-    "targetUser": "目标12",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线12"
-  },
-  {
-    "id": "io-route-13",
-    "slug": "IoT路线13",
-    "title": "IoT路线13",
-    "description": "IoT路线13",
-    "targetUser": "目标13",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线13"
-  },
-  {
-    "id": "io-route-14",
-    "slug": "IoT路线14",
-    "title": "IoT路线14",
-    "description": "IoT路线14",
-    "targetUser": "目标14",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线14"
-  },
-  {
-    "id": "io-route-15",
-    "slug": "IoT路线15",
-    "title": "IoT路线15",
-    "description": "IoT路线15",
-    "targetUser": "目标15",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线15"
-  },
-  {
-    "id": "io-route-16",
-    "slug": "IoT路线16",
-    "title": "IoT路线16",
-    "description": "IoT路线16",
-    "targetUser": "目标16",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线16"
-  },
-  {
-    "id": "io-route-17",
-    "slug": "IoT路线17",
-    "title": "IoT路线17",
-    "description": "IoT路线17",
-    "targetUser": "目标17",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线17"
-  },
-  {
-    "id": "io-route-18",
-    "slug": "IoT路线18",
-    "title": "IoT路线18",
-    "description": "IoT路线18",
-    "targetUser": "目标18",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线18"
-  },
-  {
-    "id": "io-route-19",
-    "slug": "IoT路线19",
-    "title": "IoT路线19",
-    "description": "IoT路线19",
-    "targetUser": "目标19",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线19"
-  },
-  {
-    "id": "io-route-20",
-    "slug": "IoT路线20",
-    "title": "IoT路线20",
-    "description": "IoT路线20",
-    "targetUser": "目标20",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线20"
-  },
-  {
-    "id": "io-route-21",
-    "slug": "IoT路线21",
-    "title": "IoT路线21",
-    "description": "IoT路线21",
-    "targetUser": "目标21",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线21"
-  },
-  {
-    "id": "io-route-22",
-    "slug": "IoT路线22",
-    "title": "IoT路线22",
-    "description": "IoT路线22",
-    "targetUser": "目标22",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线22"
-  },
-  {
-    "id": "io-route-23",
-    "slug": "IoT路线23",
-    "title": "IoT路线23",
-    "description": "IoT路线23",
-    "targetUser": "目标23",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线23"
-  },
-  {
-    "id": "io-route-24",
-    "slug": "IoT路线24",
-    "title": "IoT路线24",
-    "description": "IoT路线24",
-    "targetUser": "目标24",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线24"
-  },
-  {
-    "id": "io-route-25",
-    "slug": "IoT路线25",
-    "title": "IoT路线25",
-    "description": "IoT路线25",
-    "targetUser": "目标25",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线25"
-  },
-  {
-    "id": "io-route-26",
-    "slug": "IoT路线26",
-    "title": "IoT路线26",
-    "description": "IoT路线26",
-    "targetUser": "目标26",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线26"
-  },
-  {
-    "id": "io-route-27",
-    "slug": "IoT路线27",
-    "title": "IoT路线27",
-    "description": "IoT路线27",
-    "targetUser": "目标27",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线27"
-  },
-  {
-    "id": "io-route-28",
-    "slug": "IoT路线28",
-    "title": "IoT路线28",
-    "description": "IoT路线28",
-    "targetUser": "目标28",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线28"
-  },
-  {
-    "id": "io-route-29",
-    "slug": "IoT路线29",
-    "title": "IoT路线29",
-    "description": "IoT路线29",
-    "targetUser": "目标29",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线29"
-  },
-  {
-    "id": "io-route-30",
-    "slug": "IoT路线30",
-    "title": "IoT路线30",
-    "description": "IoT路线30",
-    "targetUser": "目标30",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线30"
-  },
-  {
-    "id": "io-route-31",
-    "slug": "IoT路线31",
-    "title": "IoT路线31",
-    "description": "IoT路线31",
-    "targetUser": "目标31",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线31"
-  },
-  {
-    "id": "io-route-32",
-    "slug": "IoT路线32",
-    "title": "IoT路线32",
-    "description": "IoT路线32",
-    "targetUser": "目标32",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线32"
-  },
-  {
-    "id": "io-route-33",
-    "slug": "IoT路线33",
-    "title": "IoT路线33",
-    "description": "IoT路线33",
-    "targetUser": "目标33",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线33"
-  },
-  {
-    "id": "io-route-34",
-    "slug": "IoT路线34",
-    "title": "IoT路线34",
-    "description": "IoT路线34",
-    "targetUser": "目标34",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线34"
-  },
-  {
-    "id": "io-route-35",
-    "slug": "IoT路线35",
-    "title": "IoT路线35",
-    "description": "IoT路线35",
-    "targetUser": "目标35",
-    "durationDays": 5,
-    "steps": [],
-    "recommendedCourseIds": [],
-    "recommendedLessonIds": [],
-    "recommendedQuestionIds": [],
-    "outcomes": [
-      "掌握"
-    ],
-    "summary": "IoT路线35"
+    "id": "mod-embedded-iot-route-2",
+    "slug": "quick-start-path",
+    "title": "嵌入式C与物联网基础 快速通关极速路线",
+    "summary": "专为快速开发或面试突击设计的速成学习路径。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "嵌入式C与物联网基础 环境依赖搭建与运行机制",
+        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "courseId": "mod-embedded-iot-c-1",
+        "lessonId": "mod-embedded-iot-l-1"
+      },
+      {
+        "order": 3,
+        "title": "嵌入式C与物联网基础 API 接口规范与数据通信",
+        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "courseId": "mod-embedded-iot-c-2",
+        "lessonId": "mod-embedded-iot-l-3"
+      },
+      {
+        "order": 5,
+        "title": "嵌入式C与物联网基础 缓存优化与垃圾回收调优",
+        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "courseId": "mod-embedded-iot-c-3",
+        "lessonId": "mod-embedded-iot-l-5"
+      }
+    ]
   }
 ]
