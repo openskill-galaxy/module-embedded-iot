@@ -5,11 +5,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003092",
-      "io-q-001837",
-      "io-q-000688"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -29,11 +25,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001347",
-      "io-q-002055",
-      "io-q-001372"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -53,11 +45,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003432",
-      "io-q-000639",
-      "io-q-000179"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -77,11 +65,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000072",
-      "io-q-002099",
-      "io-q-002481"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -101,11 +85,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000189",
-      "io-q-001637",
-      "io-q-003595"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -125,11 +105,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002038",
-      "io-q-001271",
-      "io-q-003476"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -149,11 +125,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002200",
-      "io-q-001208",
-      "io-q-002229"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -173,11 +145,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002433",
-      "io-q-000954",
-      "io-q-002587"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -197,11 +165,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003255",
-      "io-q-002718",
-      "io-q-001543"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -221,11 +185,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001944",
-      "io-q-003013",
-      "io-q-002433"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -245,11 +205,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000144",
-      "io-q-001580",
-      "io-q-002012"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -269,11 +225,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001951",
-      "io-q-002534",
-      "io-q-003341"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -293,11 +245,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000816",
-      "io-q-002699",
-      "io-q-001479"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -317,11 +265,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002827",
-      "io-q-001853",
-      "io-q-001264"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -341,11 +285,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003318",
-      "io-q-000826",
-      "io-q-001702"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -365,11 +305,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001945",
-      "io-q-000088",
-      "io-q-000907"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -389,11 +325,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000744",
-      "io-q-000739",
-      "io-q-001684"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -413,11 +345,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003437",
-      "io-q-002035",
-      "io-q-000743"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -437,11 +365,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001122",
-      "io-q-002407",
-      "io-q-003111"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -461,11 +385,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000747",
-      "io-q-001329",
-      "io-q-000375"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -485,11 +405,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000050",
-      "io-q-002800",
-      "io-q-001388"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -509,11 +425,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001630",
-      "io-q-000166",
-      "io-q-003258"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -533,11 +445,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000274",
-      "io-q-000699",
-      "io-q-001304"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -557,11 +465,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002546",
-      "io-q-001673",
-      "io-q-002714"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -581,11 +485,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001271",
-      "io-q-000792",
-      "io-q-003570"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -605,11 +505,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001837",
-      "io-q-000881",
-      "io-q-000124"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -629,11 +525,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003341",
-      "io-q-003043",
-      "io-q-002678"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -653,11 +545,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001673",
-      "io-q-002676",
-      "io-q-001176"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -677,11 +565,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001976",
-      "io-q-002569",
-      "io-q-000679"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -701,11 +585,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000690",
-      "io-q-002706",
-      "io-q-003411"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -725,11 +605,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001165",
-      "io-q-003205",
-      "io-q-001978"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -749,11 +625,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002321",
-      "io-q-000690",
-      "io-q-003403"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -773,11 +645,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000193",
-      "io-q-000251",
-      "io-q-002975"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -797,11 +665,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002029",
-      "io-q-003334",
-      "io-q-000794"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -821,11 +685,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000725",
-      "io-q-003115",
-      "io-q-000503"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -845,11 +705,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003208",
-      "io-q-001253",
-      "io-q-000022"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -869,11 +725,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001071",
-      "io-q-002831",
-      "io-q-002878"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -893,11 +745,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001439",
-      "io-q-000832",
-      "io-q-003009"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -917,11 +765,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001264",
-      "io-q-000373",
-      "io-q-001983"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -941,11 +785,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003040",
-      "io-q-002669",
-      "io-q-002075"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -965,11 +805,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000913",
-      "io-q-003202",
-      "io-q-000114"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -989,11 +825,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003162",
-      "io-q-002445",
-      "io-q-000827"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001437",
-      "io-q-003164",
-      "io-q-001655"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001002",
-      "io-q-003662",
-      "io-q-003058"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000498",
-      "io-q-000626",
-      "io-q-001153"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002952",
-      "io-q-000722",
-      "io-q-000950"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000605",
-      "io-q-000970",
-      "io-q-002470"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000643",
-      "io-q-000485",
-      "io-q-002763"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002604",
-      "io-q-002809",
-      "io-q-002058"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003096",
-      "io-q-000620",
-      "io-q-002579"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001720",
-      "io-q-003388",
-      "io-q-002769"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003029",
-      "io-q-000276",
-      "io-q-003584"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001704",
-      "io-q-002033",
-      "io-q-002514"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003312",
-      "io-q-003546",
-      "io-q-003432"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002795",
-      "io-q-003604",
-      "io-q-000899"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000225",
-      "io-q-002277",
-      "io-q-001438"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000936",
-      "io-q-002274",
-      "io-q-000231"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002555",
-      "io-q-001841",
-      "io-q-002084"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000026",
-      "io-q-002331",
-      "io-q-000767"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002365",
-      "io-q-000680",
-      "io-q-000271"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000644",
-      "io-q-001064",
-      "io-q-003558"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001588",
-      "io-q-001489",
-      "io-q-001368"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003271",
-      "io-q-002250",
-      "io-q-001052"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003335",
-      "io-q-001392",
-      "io-q-001698"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001463",
-      "io-q-001284",
-      "io-q-003178"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000211",
-      "io-q-002983",
-      "io-q-003073"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000758",
-      "io-q-002657",
-      "io-q-002848"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003582",
-      "io-q-002494",
-      "io-q-002745"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002806",
-      "io-q-002106",
-      "io-q-000681"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000133",
-      "io-q-000006",
-      "io-q-000321"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001970",
-      "io-q-002795",
-      "io-q-001202"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002874",
-      "io-q-000571",
-      "io-q-000902"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001048",
-      "io-q-000880",
-      "io-q-002195"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001289",
-      "io-q-002856",
-      "io-q-003655"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002369",
-      "io-q-000489",
-      "io-q-002961"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-002775",
-      "io-q-001284",
-      "io-q-001489"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-001371",
-      "io-q-002967",
-      "io-q-000112"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-000087",
-      "io-q-002584",
-      "io-q-000987"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003352",
-      "io-q-001854",
-      "io-q-002740"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "io-q-003269",
-      "io-q-001020",
-      "io-q-002658"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001491",
-      "io-q-003018",
-      "io-q-000732"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002676",
-      "io-q-003668",
-      "io-q-002960"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002953",
-      "io-q-001870",
-      "io-q-003586"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000020",
-      "io-q-003399",
-      "io-q-003152"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002332",
-      "io-q-001101",
-      "io-q-001369"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001131",
-      "io-q-001583",
-      "io-q-000635"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001272",
-      "io-q-002548",
-      "io-q-002907"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000878",
-      "io-q-000383",
-      "io-q-003239"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002772",
-      "io-q-002290",
-      "io-q-000709"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000310",
-      "io-q-001918",
-      "io-q-003520"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002907",
-      "io-q-000672",
-      "io-q-001693"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003097",
-      "io-q-002566",
-      "io-q-002105"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002580",
-      "io-q-003410",
-      "io-q-001728"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001518",
-      "io-q-002817",
-      "io-q-002542"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000383",
-      "io-q-001066",
-      "io-q-002448"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000048",
-      "io-q-001829",
-      "io-q-003552"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000862",
-      "io-q-003511",
-      "io-q-003441"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001009",
-      "io-q-001080",
-      "io-q-000324"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001755",
-      "io-q-001657",
-      "io-q-002667"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003265",
-      "io-q-002895",
-      "io-q-003177"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000334",
-      "io-q-001766",
-      "io-q-003194"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000404",
-      "io-q-001350",
-      "io-q-003463"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001593",
-      "io-q-000887",
-      "io-q-001070"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000987",
-      "io-q-000487",
-      "io-q-001681"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002158",
-      "io-q-002906",
-      "io-q-000020"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000165",
-      "io-q-001662",
-      "io-q-003292"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000247",
-      "io-q-000410",
-      "io-q-001648"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003560",
-      "io-q-001612",
-      "io-q-003377"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000931",
-      "io-q-000717",
-      "io-q-000703"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003452",
-      "io-q-001999",
-      "io-q-001836"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000637",
-      "io-q-001934",
-      "io-q-002551"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003473",
-      "io-q-002007",
-      "io-q-002524"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001233",
-      "io-q-002406",
-      "io-q-000511"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001021",
-      "io-q-000762",
-      "io-q-002351"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000121",
-      "io-q-002427",
-      "io-q-003550"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002995",
-      "io-q-002374",
-      "io-q-000460"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000614",
-      "io-q-000212",
-      "io-q-000456"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000559",
-      "io-q-000673",
-      "io-q-003601"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002366",
-      "io-q-000808",
-      "io-q-002001"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000743",
-      "io-q-003114",
-      "io-q-001239"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002503",
-      "io-q-001739",
-      "io-q-000096"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000564",
-      "io-q-002529",
-      "io-q-002163"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000153",
-      "io-q-000994",
-      "io-q-003479"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002028",
-      "io-q-001746",
-      "io-q-002631"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002984",
-      "io-q-003563",
-      "io-q-000335"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002091",
-      "io-q-001423",
-      "io-q-003568"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000185",
-      "io-q-001011",
-      "io-q-003037"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003097",
-      "io-q-001248",
-      "io-q-001011"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000639",
-      "io-q-001860",
-      "io-q-001272"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000351",
-      "io-q-001867",
-      "io-q-001134"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000926",
-      "io-q-002500",
-      "io-q-000422"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002661",
-      "io-q-003035",
-      "io-q-000349"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000578",
-      "io-q-001139",
-      "io-q-003001"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002436",
-      "io-q-000170",
-      "io-q-000193"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001698",
-      "io-q-000653",
-      "io-q-001424"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000472",
-      "io-q-003048",
-      "io-q-001613"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000650",
-      "io-q-000351",
-      "io-q-003431"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002854",
-      "io-q-001735",
-      "io-q-003481"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001676",
-      "io-q-001806",
-      "io-q-001462"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001979",
-      "io-q-003273",
-      "io-q-001446"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003291",
-      "io-q-000789",
-      "io-q-001485"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002653",
-      "io-q-003444",
-      "io-q-002634"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000816",
-      "io-q-001999",
-      "io-q-000065"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000344",
-      "io-q-002947",
-      "io-q-000111"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001448",
-      "io-q-003441",
-      "io-q-000379"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000796",
-      "io-q-001513",
-      "io-q-000975"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000573",
-      "io-q-001985",
-      "io-q-000246"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000875",
-      "io-q-000791",
-      "io-q-003220"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002875",
-      "io-q-000839",
-      "io-q-002795"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000896",
-      "io-q-000563",
-      "io-q-001723"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000795",
-      "io-q-003138",
-      "io-q-003639"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001586",
-      "io-q-001802",
-      "io-q-002080"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002279",
-      "io-q-000356",
-      "io-q-000061"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-001352",
-      "io-q-001068",
-      "io-q-003446"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003205",
-      "io-q-001083",
-      "io-q-000035"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000397",
-      "io-q-001129",
-      "io-q-003423"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-003072",
-      "io-q-003527",
-      "io-q-000019"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002061",
-      "io-q-001419",
-      "io-q-001550"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-000133",
-      "io-q-001463",
-      "io-q-002671"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "io-q-002409",
-      "io-q-000613",
-      "io-q-000979"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003123",
-      "io-q-003525",
-      "io-q-000822"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002167",
-      "io-q-001914",
-      "io-q-000663"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000478",
-      "io-q-000892",
-      "io-q-003479"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001117",
-      "io-q-001177",
-      "io-q-000453"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000424",
-      "io-q-000700",
-      "io-q-001615"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000281",
-      "io-q-002033",
-      "io-q-002204"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000558",
-      "io-q-000117",
-      "io-q-002579"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002651",
-      "io-q-003085",
-      "io-q-001144"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001816",
-      "io-q-003530",
-      "io-q-000225"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001280",
-      "io-q-000641",
-      "io-q-000688"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000546",
-      "io-q-002607",
-      "io-q-001678"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001205",
-      "io-q-002357",
-      "io-q-001113"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002126",
-      "io-q-000408",
-      "io-q-003612"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001900",
-      "io-q-001867",
-      "io-q-002112"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003394",
-      "io-q-001682",
-      "io-q-003415"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001776",
-      "io-q-001713",
-      "io-q-000806"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001446",
-      "io-q-002522",
-      "io-q-000429"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003608",
-      "io-q-002933",
-      "io-q-003662"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002060",
-      "io-q-001104",
-      "io-q-003613"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001062",
-      "io-q-001627",
-      "io-q-002373"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002281",
-      "io-q-001556",
-      "io-q-002445"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002527",
-      "io-q-003098",
-      "io-q-000090"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000987",
-      "io-q-003463",
-      "io-q-002730"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002362",
-      "io-q-002089",
-      "io-q-002029"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002426",
-      "io-q-002458",
-      "io-q-001081"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003162",
-      "io-q-001325",
-      "io-q-001774"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002802",
-      "io-q-000378",
-      "io-q-000606"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001930",
-      "io-q-001671",
-      "io-q-002850"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000145",
-      "io-q-000645",
-      "io-q-000944"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001074",
-      "io-q-003532",
-      "io-q-002301"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001472",
-      "io-q-000640",
-      "io-q-003685"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002774",
-      "io-q-001987",
-      "io-q-002716"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001995",
-      "io-q-001048",
-      "io-q-003161"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003279",
-      "io-q-001005",
-      "io-q-002917"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000250",
-      "io-q-001485",
-      "io-q-002245"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000573",
-      "io-q-001759",
-      "io-q-000596"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003699",
-      "io-q-000368",
-      "io-q-003054"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003062",
-      "io-q-002552",
-      "io-q-001965"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000154",
-      "io-q-001986",
-      "io-q-000148"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003108",
-      "io-q-001729",
-      "io-q-000121"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000428",
-      "io-q-001322",
-      "io-q-001741"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000912",
-      "io-q-000209",
-      "io-q-002990"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001966",
-      "io-q-002232",
-      "io-q-003121"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000731",
-      "io-q-001735",
-      "io-q-000957"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002899",
-      "io-q-003345",
-      "io-q-001237"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002703",
-      "io-q-002029",
-      "io-q-002529"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002447",
-      "io-q-003178",
-      "io-q-002116"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001292",
-      "io-q-003584",
-      "io-q-003190"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002169",
-      "io-q-002862",
-      "io-q-002445"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001632",
-      "io-q-000456",
-      "io-q-002803"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003608",
-      "io-q-003598",
-      "io-q-002885"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002937",
-      "io-q-002845",
-      "io-q-002981"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000699",
-      "io-q-003366",
-      "io-q-002522"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000707",
-      "io-q-002362",
-      "io-q-003304"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001257",
-      "io-q-002295",
-      "io-q-002299"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003654",
-      "io-q-000162",
-      "io-q-001969"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000050",
-      "io-q-002291",
-      "io-q-002875"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000441",
-      "io-q-000644",
-      "io-q-002134"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003255",
-      "io-q-002527",
-      "io-q-003338"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000901",
-      "io-q-000357",
-      "io-q-003218"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000743",
-      "io-q-001960",
-      "io-q-003552"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003238",
-      "io-q-000088",
-      "io-q-001264"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001169",
-      "io-q-003326",
-      "io-q-000657"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002213",
-      "io-q-001617",
-      "io-q-001400"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002598",
-      "io-q-001612",
-      "io-q-000975"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001588",
-      "io-q-002330",
-      "io-q-002731"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000520",
-      "io-q-002508",
-      "io-q-003590"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002948",
-      "io-q-001861",
-      "io-q-000886"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000295",
-      "io-q-002922",
-      "io-q-001233"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002476",
-      "io-q-002538",
-      "io-q-000165"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002511",
-      "io-q-003226",
-      "io-q-000469"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002045",
-      "io-q-001099",
-      "io-q-000257"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002694",
-      "io-q-003493",
-      "io-q-002774"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001950",
-      "io-q-001398",
-      "io-q-002601"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002237",
-      "io-q-003073",
-      "io-q-000767"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001510",
-      "io-q-000987",
-      "io-q-000600"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003425",
-      "io-q-000970",
-      "io-q-001957"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002240",
-      "io-q-003395",
-      "io-q-000349"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过RTOS任务掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001868",
-      "io-q-003235",
-      "io-q-000698"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "RTOS任务"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过MQTT上报掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001518",
-      "io-q-000996",
-      "io-q-000340"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "MQTT上报"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过环境监测掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002946",
-      "io-q-003574",
-      "io-q-000085"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "环境监测"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过IoT面试掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003495",
-      "io-q-000669",
-      "io-q-001045"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "IoT面试"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过点亮LED掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000449",
-      "io-q-000488",
-      "io-q-002973"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "点亮LED"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过按键控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001046",
-      "io-q-000957",
-      "io-q-003530"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键控制"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过按键消抖掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003371",
-      "io-q-001462",
-      "io-q-002059"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "按键消抖"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过流水灯掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003236",
-      "io-q-002311",
-      "io-q-003010"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "流水灯"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过蜂鸣器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000551",
-      "io-q-000662",
-      "io-q-001454"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "蜂鸣器"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过PWM调光掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002520",
-      "io-q-002546",
-      "io-q-000623"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM调光"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过PWM舵机掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001106",
-      "io-q-001699",
-      "io-q-002466"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "PWM舵机"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过定时器中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000612",
-      "io-q-000622",
-      "io-q-000884"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "定时器中断"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过外部中断掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000379",
-      "io-q-002959",
-      "io-q-000910"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "外部中断"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过串口打印掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001950",
-      "io-q-002606",
-      "io-q-003472"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口打印"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过串口命令掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002568",
-      "io-q-003103",
-      "io-q-001769"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "串口命令"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过I2C传感器掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000554",
-      "io-q-001836",
-      "io-q-001404"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "I2C传感器"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过SPI显示屏掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-003080",
-      "io-q-001141",
-      "io-q-001754"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SPI显示屏"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过ADC采样掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000474",
-      "io-q-002865",
-      "io-q-003016"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "ADC采样"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过温湿度采集掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-001613",
-      "io-q-003485",
-      "io-q-003063"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "温湿度采集"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过OLED显示掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-000874",
-      "io-q-000670",
-      "io-q-003673"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "OLED显示"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过超声波测距掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002406",
-      "io-q-001797",
-      "io-q-000408"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "超声波测距"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过电机控制掌握IoT",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "io-q-002154",
-      "io-q-000507",
-      "io-q-001244"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "电机控制"
     ],
