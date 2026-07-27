@@ -1,31 +1,64 @@
 [
   {
     "id": "mod-embedded-iot-exam-1",
-    "slug": "final-exam",
-    "title": "嵌入式C与物联网基础 核心期末综合自测",
-    "summary": "全面检验您对 嵌入式C与物联网基础 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "嵌入式C与物联网 基础入门测验",
+    "summary": "覆盖 GPIO 位操作、UART/PWM 基础、存储器类型、看门狗与按键消抖等入门概念，适合初学者摸底自测。",
     "difficulty": "easy",
     "questionIds": [
-      "mod-embedded-iot-q-1",
       "mod-embedded-iot-q-2",
       "mod-embedded-iot-q-3",
       "mod-embedded-iot-q-4",
-      "mod-embedded-iot-q-5",
-      "mod-embedded-iot-q-6"
+      "mod-embedded-iot-q-12",
+      "mod-embedded-iot-q-13",
+      "mod-embedded-iot-q-20",
+      "mod-embedded-iot-q-21",
+      "mod-embedded-iot-q-22"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-embedded-iot-exam-2",
-    "slug": "basic-exam",
-    "title": "嵌入式C与物联网基础 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "嵌入式C与物联网 进阶强化训练",
+    "summary": "聚焦 volatile 与中断规范、I2C/SPI 总线机制、ADC 换算、RTOS 调度与 MQTT QoS，强化外设驱动与协议核心能力。",
+    "difficulty": "medium",
     "questionIds": [
       "mod-embedded-iot-q-1",
-      "mod-embedded-iot-q-2",
-      "mod-embedded-iot-q-3"
+      "mod-embedded-iot-q-5",
+      "mod-embedded-iot-q-6",
+      "mod-embedded-iot-q-7",
+      "mod-embedded-iot-q-8",
+      "mod-embedded-iot-q-9",
+      "mod-embedded-iot-q-10",
+      "mod-embedded-iot-q-15",
+      "mod-embedded-iot-q-16",
+      "mod-embedded-iot-q-19",
+      "mod-embedded-iot-q-23"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-embedded-iot-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "嵌入式C与物联网 综合模拟考试",
+    "summary": "从 C 语言存储布局到 RTOS 优先级反转、中断并发与 OTA 升级的全范围模拟卷，混合单选、多选、判断与简答。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-embedded-iot-q-1",
+      "mod-embedded-iot-q-6",
+      "mod-embedded-iot-q-8",
+      "mod-embedded-iot-q-9",
+      "mod-embedded-iot-q-11",
+      "mod-embedded-iot-q-14",
+      "mod-embedded-iot-q-16",
+      "mod-embedded-iot-q-17",
+      "mod-embedded-iot-q-18",
+      "mod-embedded-iot-q-19",
+      "mod-embedded-iot-q-23",
+      "mod-embedded-iot-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

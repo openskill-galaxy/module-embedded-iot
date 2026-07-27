@@ -1,218 +1,428 @@
 [
   {
     "id": "mod-embedded-iot-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [嵌入式C与物联网基础] 的过程里，关于“嵌入式C与物联网基础 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "在嵌入式 C 中，声明变量时使用 volatile 关键字的主要目的是什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "告诉编译器该变量可能被中断服务程序或硬件随时修改，禁止对其读写做优化缓存" },
+      { "key": "B", "text": "把变量放入只读的 Flash 存储区以节省 RAM" },
+      { "key": "C", "text": "保证多字节变量的读写操作是原子的" },
+      { "key": "D", "text": "强制变量按 4 字节对齐以提升访问速度" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“嵌入式C与物联网基础 环境依赖搭建与运行机制”的正确答案为 A。解析：在 嵌入式C与物联网基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "嵌入式C与物联网基础",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "volatile 告知编译器变量的值可能在程序不知情的情况下改变（如被 ISR、DMA 或外设寄存器更新），因此每次访问都必须真正从内存/寄存器读取，不能优化为寄存器缓存或删除\"看似无用\"的读写。它不提供原子性（C 错），也与存储区域（B）和对齐（D）无关。典型用途：中断标志位、内存映射外设寄存器。",
+    "tags": ["嵌入式C", "volatile", "编译器优化"],
     "difficulty": "medium",
-    "chapter": "course-1",
+    "chapter": "mod-embedded-iot-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-embedded-iot-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [嵌入式C与物联网基础] 的过程里，关于“嵌入式C与物联网基础 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "要将 GPIO 端口寄存器 PORT 的第 3 位（bit3）置 1，且不影响其它位，正确的 C 语言写法是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "PORT = (1 << 3);" },
+      { "key": "B", "text": "PORT |= (1 << 3);" },
+      { "key": "C", "text": "PORT &= (1 << 3);" },
+      { "key": "D", "text": "PORT ^= ~(1 << 3);" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“嵌入式C与物联网基础 配置文件覆盖与属性解析”的正确答案为 A。解析：在 嵌入式C与物联网基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "嵌入式C与物联网基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["B"],
+    "explanation": "按位或并赋值 PORT |= (1 << 3) 只把 bit3 置 1，其余位保持不变。A 是直接赋值，会把其它位全部清 0；C 的按位与会把除 bit3 外的位全部清 0；D 的异或取反会翻转除 bit3 外的所有位。配套操作：清零用 PORT &= ~(1 << 3)，翻转用 PORT ^= (1 << 3)。",
+    "tags": ["嵌入式C", "位操作", "GPIO"],
+    "difficulty": "easy",
+    "chapter": "mod-embedded-iot-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-embedded-iot-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [嵌入式C与物联网基础] 的过程里，关于“嵌入式C与物联网基础 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "UART 串口通信配置为波特率 9600、8 位数据位、无校验、1 位停止位（9600-8N1）时，下列说法正确的是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "UART 是同步通信，必须额外连接时钟线 SCL" },
+      { "key": "B", "text": "通信双方必须约定相同的波特率，帧内以起始位和停止位界定一个字符" },
+      { "key": "C", "text": "8N1 表示每帧共 8 位，包含数据和校验" },
+      { "key": "D", "text": "UART 必须由主机发起，从机才能应答传输" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“嵌入式C与物联网基础 API 接口规范与数据通信”的正确答案为 A。解析：在 嵌入式C与物联网基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "嵌入式C与物联网基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["B"],
+    "explanation": "UART 是异步串行通信，没有时钟线，靠双方预先约定的波特率对齐采样时刻，每帧由起始位（低电平）、数据位、可选校验位、停止位（高电平）组成。8N1 的一帧实际是 1 起始 + 8 数据 + 1 停止 = 10 位；UART 是点对点全双工，无主从概念（主从/应答是 I2C 的特征）。",
+    "tags": ["UART", "串口通信"],
+    "difficulty": "easy",
+    "chapter": "mod-embedded-iot-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-embedded-iot-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [嵌入式C与物联网基础] 的过程里，关于“嵌入式C与物联网基础 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "PWM 信号的占空比（duty cycle）指的是什么？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "一个周期内高电平持续时间与整个周期时间的比值" },
+      { "key": "B", "text": "PWM 波形的频率与系统主频的比值" },
+      { "key": "C", "text": "高电平电压与低电平电压的比值" },
+      { "key": "D", "text": "输出电流与额定电流的比值" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“嵌入式C与物联网基础 核心控制器与数据校验机制”的正确答案为 A。解析：在 嵌入式C与物联网基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "嵌入式C与物联网基础",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["A"],
+    "explanation": "占空比 = 高电平时间 / 周期时间 × 100%。通过调节占空比可以改变负载获得的平均功率，这是 PWM 调光（LED 亮度）、直流电机调速、舵机角度控制的基本原理。例如 50% 占空比表示一个周期内一半时间为高电平。它与频率之比、电压之比无关。",
+    "tags": ["PWM", "定时器"],
+    "difficulty": "easy",
+    "chapter": "mod-embedded-iot-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-embedded-iot-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [嵌入式C与物联网基础] 的过程里，关于“嵌入式C与物联网基础 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "关于中断服务程序（ISR）的编写规范，下列做法正确的是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "在 ISR 中调用 printf 打印大量调试日志，方便排查问题" },
+      { "key": "B", "text": "ISR 应尽量短小：置标志位或发消息通知主循环/任务处理，耗时工作放到中断外完成" },
+      { "key": "C", "text": "在 ISR 中使用长延时 delay_ms(500) 等待外设稳定" },
+      { "key": "D", "text": "ISR 与主程序共享的标志变量声明为普通 int 即可，无需特殊修饰" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“嵌入式C与物联网基础 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 嵌入式C与物联网基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "嵌入式C与物联网基础",
-      "基础考点"
-    ],
+    "answer": ["B"],
+    "explanation": "ISR 的核心原则是\"快进快出\"：只做必要的现场处理（清中断标志、读取数据、置位通知），把耗时逻辑交给主循环或 RTOS 任务，否则会阻塞更低优先级中断、造成实时性问题。printf 和长延时都严重耗时不应出现在 ISR 中；与主程序共享的标志必须加 volatile，防止编译器优化掉对它的重复读取。",
+    "tags": ["中断", "ISR", "实时性"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-embedded-iot-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-embedded-iot-q-6",
-    "slug": "question-course-3-7",
+    "slug": "question-6",
     "type": "single",
-    "stem": "在学习 [嵌入式C与物联网基础] 的过程里，关于“嵌入式C与物联网基础 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "stem": "I2C 总线上，SDA 和 SCL 引脚需要外接上拉电阻的根本原因是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      { "key": "A", "text": "I2C 器件均采用开漏（open-drain）输出，只能主动拉低电平，高电平需靠上拉电阻实现" },
+      { "key": "B", "text": "上拉电阻用于限制总线电流，防止器件烧毁" },
+      { "key": "C", "text": "上拉电阻用于提高总线传输速率" },
+      { "key": "D", "text": "上拉电阻用于隔离不同电压域的器件" }
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“嵌入式C与物联网基础 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 嵌入式C与物联网基础 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "嵌入式C与物联网基础",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "I2C 规定所有设备的 SDA/SCL 均为开漏输出：设备只能把线拉低或释放（高阻），释放时由上拉电阻把总线拉回高电平。这实现了\"线与\"逻辑，支持多主仲裁和时钟拉伸，任何设备拉低总线即为低电平。上拉阻值过大反而会因 RC 充电变慢限制速率（C 说反了），它也不是限流或电平转换器件。",
+    "tags": ["I2C", "总线", "硬件接口"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-embedded-iot-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-embedded-iot-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "SPI 与 I2C 相比，下列描述正确的是？",
+    "options": [
+      { "key": "A", "text": "SPI 只需 2 根线，比 I2C 的 4 根线更节省引脚" },
+      { "key": "B", "text": "SPI 通过每个从设备独立的片选线 CS 寻址，全双工，速率通常高于 I2C" },
+      { "key": "C", "text": "SPI 依靠 7 位器件地址区分总线上的多个从设备" },
+      { "key": "D", "text": "SPI 有标准的应答（ACK）机制，可靠性天然高于 I2C" }
+    ],
+    "answer": ["B"],
+    "explanation": "SPI 使用 MOSI、MISO、SCLK 加每从机一根 CS 片选线，通过拉低对应 CS 选中设备，收发通道独立可全双工，时钟可达数十 MHz。I2C 才是 2 线（SDA/SCL）、7 位地址寻址、带 ACK 应答的半双工总线。SPI 协议本身没有应答机制，可靠性需应用层保障。",
+    "tags": ["SPI", "I2C", "总线对比"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-embedded-iot-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "一个 12 位 ADC，参考电压 Vref = 3.3V，采样得到的数字量为 2048，对应的输入电压约为多少？",
+    "options": [
+      { "key": "A", "text": "约 0.825V" },
+      { "key": "B", "text": "约 1.65V" },
+      { "key": "C", "text": "约 2.475V" },
+      { "key": "D", "text": "约 3.3V" }
+    ],
+    "answer": ["B"],
+    "explanation": "12 位 ADC 满量程码值为 2^12 = 4096（0~4095）。电压 ≈ 数字量 / 4096 × Vref = 2048 / 4096 × 3.3V = 0.5 × 3.3V = 1.65V。掌握公式 V = D / 2^n × Vref 即可；分辨率为 3.3V / 4096 ≈ 0.8mV，这也是 12 位 ADC 每个码值代表的电压步进。",
+    "tags": ["ADC", "模数转换"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-embedded-iot-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "在 FreeRTOS 等实时操作系统中，任务调度采用抢占式优先级调度时，下列说法正确的是？",
+    "options": [
+      { "key": "A", "text": "高优先级任务一旦就绪，会立刻抢占正在运行的低优先级任务" },
+      { "key": "B", "text": "所有任务严格按创建顺序轮流执行相同的时间片" },
+      { "key": "C", "text": "任务优先级在创建后无法再修改" },
+      { "key": "D", "text": "空闲任务（Idle Task）拥有最高优先级，保证系统不会死机" }
+    ],
+    "answer": ["A"],
+    "explanation": "抢占式调度的核心：调度器始终让就绪态中优先级最高的任务运行，高优先级任务就绪（如等待的信号量被释放）会立即发生上下文切换。B 描述的是纯时间片轮转；FreeRTOS 可用 vTaskPrioritySet 动态改优先级（C 错）；空闲任务优先级最低（0），只在无其它就绪任务时运行（D 错）。",
+    "tags": ["RTOS", "FreeRTOS", "任务调度"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-embedded-iot-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "MQTT 协议中，QoS 1 级别保证的消息投递语义是？",
+    "options": [
+      { "key": "A", "text": "至多一次（at most once），消息可能丢失" },
+      { "key": "B", "text": "至少一次（at least once），消息不会丢失但可能重复" },
+      { "key": "C", "text": "恰好一次（exactly once），既不丢失也不重复" },
+      { "key": "D", "text": "按序一次，保证跨主题的全局有序" }
+    ],
+    "answer": ["B"],
+    "explanation": "MQTT 三个 QoS 等级：QoS 0 至多一次（发完即忘）；QoS 1 至少一次，发送方保存消息直到收到 PUBACK，超时重发，因此接收方可能收到重复消息，需要业务侧幂等处理；QoS 2 恰好一次，通过 PUBREC/PUBREL/PUBCOMP 四次握手实现，开销最大。MQTT 不提供跨主题全局有序保证。",
+    "tags": ["MQTT", "物联网协议", "QoS"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-embedded-iot-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "嵌入式 C 程序的存储布局中，已初始化的全局变量（如 int g_cnt = 10;）在程序镜像与运行时分别位于哪里？",
+    "options": [
+      { "key": "A", "text": "初值存放在 Flash，启动时由启动代码复制到 RAM 的 .data 段" },
+      { "key": "B", "text": "始终只存在于 Flash 中，运行时直接在 Flash 上读写" },
+      { "key": "C", "text": "位于栈区，函数调用时自动分配" },
+      { "key": "D", "text": "位于 .bss 段，上电时被清零为 0" }
+    ],
+    "answer": ["A"],
+    "explanation": "已初始化全局/静态变量属于 .data 段：初值烧录在 Flash 中，复位后启动代码（startup）把初值从 Flash 复制到 RAM，程序运行时在 RAM 中读写。Flash 不能像 RAM 那样随机写（B 错）；栈存放局部变量（C 错）；.bss 段存放未初始化或初始化为 0 的全局变量，由启动代码统一清零（D 描述的是 .bss 而非 .data）。",
+    "tags": ["嵌入式C", "存储布局", "启动流程"],
+    "difficulty": "hard",
+    "chapter": "mod-embedded-iot-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-embedded-iot-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "机械按键接入 GPIO 时通常需要\"消抖\"处理，其原因和常见做法是？",
+    "options": [
+      { "key": "A", "text": "按键按下瞬间触点会机械弹跳产生多次电平抖动，可用 10~20ms 延时再确认或定时器多次采样滤除" },
+      { "key": "B", "text": "按键内阻过大导致电平无法拉低，需要软件补偿" },
+      { "key": "C", "text": "GPIO 输入寄存器有硬件缓存延迟，必须等待缓存刷新" },
+      { "key": "D", "text": "消抖是为了防止静电击穿 GPIO 引脚" }
+    ],
+    "answer": ["A"],
+    "explanation": "机械触点闭合/断开的瞬间会弹跳数毫秒，产生一串毛刺脉冲，若不处理会被程序误判为多次按键。软件消抖常用：检测到电平变化后延时 10~20ms 再次确认，或用定时器周期采样、连续 N 次一致才认定有效；硬件消抖可用 RC 滤波或施密特触发器。这与内阻、寄存器缓存、静电防护无关。",
+    "tags": ["GPIO", "按键消抖"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-embedded-iot-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "看门狗定时器（Watchdog Timer, WDT）在嵌入式系统中的作用是？",
+    "options": [
+      { "key": "A", "text": "程序须周期性\"喂狗\"，若因跑飞或死循环超时未喂，看门狗将复位系统恢复运行" },
+      { "key": "B", "text": "精确测量函数的执行时间用于性能分析" },
+      { "key": "C", "text": "为 RTOS 提供系统节拍（tick）时钟源" },
+      { "key": "D", "text": "在低功耗睡眠模式下代替主时钟运行外设" }
+    ],
+    "answer": ["A"],
+    "explanation": "看门狗是一个独立的递减计数器，程序必须在超时前定期重载（喂狗）；若程序跑飞、死循环或异常挂起而无法喂狗，计数器溢出触发系统复位，使设备自动恢复，是无人值守设备可靠性的最后防线。注意不要在定时器中断里无条件喂狗，否则主程序死了看门狗也失效。提供系统节拍的是 SysTick。",
+    "tags": ["看门狗", "系统可靠性"],
+    "difficulty": "easy",
+    "chapter": "mod-embedded-iot-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-embedded-iot-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "两个 FreeRTOS 任务通过互斥量（mutex）保护共享资源时，出现\"低优先级任务持锁、高优先级任务等锁、中优先级任务抢占运行\"导致高优先级任务被间接拖延的现象，该现象及互斥量的对策分别是？",
+    "options": [
+      { "key": "A", "text": "死锁；对策是加大高优先级任务的栈空间" },
+      { "key": "B", "text": "优先级反转；对策是互斥量的优先级继承机制，临时抬升持锁任务的优先级" },
+      { "key": "C", "text": "任务饥饿；对策是把所有任务设为相同优先级" },
+      { "key": "D", "text": "中断嵌套；对策是关闭全局中断" }
+    ],
+    "answer": ["B"],
+    "explanation": "这是经典的优先级反转（priority inversion）：高优先级任务被持锁的低优先级任务阻塞，而中优先级任务又抢占了低优先级任务，使锁迟迟不释放。FreeRTOS 互斥量自带优先级继承：持锁任务的优先级被临时提升到等待者的水平，尽快执行完并释放锁。这也是二值信号量与互斥量的关键区别之一，火星探路者号事故就是著名案例。",
+    "tags": ["RTOS", "互斥量", "优先级反转"],
+    "difficulty": "hard",
+    "chapter": "mod-embedded-iot-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-embedded-iot-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "关于嵌入式 C 中 const 与 #define 定义常量，下列说法正确的有哪些？（多选）",
+    "options": [
+      { "key": "A", "text": "#define 是预处理文本替换，没有类型信息，不占用变量存储空间" },
+      { "key": "B", "text": "const 常量有类型，编译器可进行类型检查" },
+      { "key": "C", "text": "const 修饰的全局常量通常可被链接器放入 Flash（只读段），节省 RAM" },
+      { "key": "D", "text": "#define 定义的宏常量作用域仅限于定义它的函数内部" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "#define 在预处理阶段做纯文本替换，无类型、无作用域概念（从定义点到文件尾或 #undef 均有效，D 错误）；const 常量具备类型信息可查错，且全局 const 数据一般被放入 .rodata 并定位到 Flash，对 RAM 紧张的 MCU 尤其重要（如字库、查找表）。",
+    "tags": ["嵌入式C", "const", "宏定义"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-embedded-iot-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "为降低电池供电 IoT 节点的功耗，下列哪些做法是有效的？（多选）",
+    "options": [
+      { "key": "A", "text": "采用\"采集—发送—休眠\"的工作循环，空闲时让 MCU 进入低功耗睡眠模式" },
+      { "key": "B", "text": "关闭不使用的外设时钟与模块电源，降低主频或使用低速时钟" },
+      { "key": "C", "text": "用 RTC 或低功耗定时器周期唤醒，替代 CPU 空转的 while 忙等待" },
+      { "key": "D", "text": "提高无线模块的发射频率，每秒上报一次心跳保证在线" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "低功耗设计三板斧：让 MCU 尽可能长时间处于睡眠/停止模式；按需供电——关掉闲置外设时钟（clock gating）并降频；用低功耗定时器或外部中断唤醒，杜绝忙等待轮询。无线收发是 IoT 节点最耗电的环节之一，加密上报频率会显著缩短电池寿命，应按业务需要拉长上报周期（D 错误）。",
+    "tags": ["低功耗", "物联网", "电源管理"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-embedded-iot-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "关于 MQTT 协议的机制，下列说法正确的有哪些？（多选）",
+    "options": [
+      { "key": "A", "text": "采用发布/订阅模型，发布者与订阅者通过 Broker 解耦，互相不需要知道对方存在" },
+      { "key": "B", "text": "主题支持通配符订阅：+ 匹配单层，# 匹配多层" },
+      { "key": "C", "text": "客户端可设置遗嘱消息（LWT），异常断线时由 Broker 代为发布，通知其它客户端" },
+      { "key": "D", "text": "MQTT 基于 UDP 传输，因此天生适合弱网环境" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "MQTT 的核心是经 Broker 中转的发布/订阅解耦模型；主题通配符 + 匹配一个层级（如 home/+/temp），# 匹配剩余所有层级且只能放在末尾；遗嘱消息在 CONNECT 时登记，客户端异常掉线（未发 DISCONNECT）时由 Broker 发布，常用于在线状态监测。D 错误：标准 MQTT 运行在 TCP（常配 TLS）之上，基于 UDP 的是其变体 MQTT-SN。",
+    "tags": ["MQTT", "发布订阅", "物联网协议"],
+    "difficulty": "hard",
+    "chapter": "mod-embedded-iot-c-2",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-embedded-iot-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "在中断与主循环共享数据的场景中，下列哪些做法是正确或必要的？（多选）",
+    "options": [
+      { "key": "A", "text": "共享标志变量用 volatile 修饰，防止编译器把读取优化掉" },
+      { "key": "B", "text": "主循环读改写多字节共享数据时，可通过短暂关中断构造临界区保证一致性" },
+      { "key": "C", "text": "使用单生产者单消费者的环形缓冲区在 ISR 与主循环间传递数据流" },
+      { "key": "D", "text": "在 ISR 中调用 malloc 动态分配缓冲区来暂存数据" }
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "volatile 保证每次真实访存；关中断临界区可防止读-改-写序列被 ISR 打断造成数据撕裂（注意临界区尽量短）；环形缓冲区（ring buffer）是 ISR 生产、主循环消费的经典无锁结构，如 UART 接收缓冲。D 错误：malloc 通常不可重入且执行时间不确定，在 ISR 中调用可能破坏堆或引入不可预期延迟，嵌入式实践普遍禁止。",
+    "tags": ["中断", "并发", "环形缓冲区"],
+    "difficulty": "hard",
+    "chapter": "mod-embedded-iot-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-embedded-iot-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "判断：I2C 总线的起始条件（START）是在 SCL 保持高电平期间，SDA 由高电平跳变为低电平。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。I2C 规定：SCL 为高时 SDA 下降沿为起始条件（START），SCL 为高时 SDA 上升沿为停止条件（STOP）；正因如此，正常数据传输中 SDA 只允许在 SCL 低电平期间变化，SCL 高电平期间必须保持稳定，以免被误判为起始/停止信号。",
+    "tags": ["I2C", "时序"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-embedded-iot-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "判断：MCU 的 Flash 用于存放程序代码和常量数据，掉电后内容不丢失；而 SRAM 用于存放运行时变量，掉电后内容丢失。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。Flash 是非易失性存储器，烧录的程序代码、常量表在掉电后依然保留；SRAM 是易失性存储器，供运行时的全局变量、栈、堆使用，掉电即失。需要掉电保存的少量运行数据（如配置参数）可写入内部/外部 EEPROM、Flash 数据区或带电池的备份寄存器。",
+    "tags": ["存储器", "Flash", "SRAM"],
+    "difficulty": "easy",
+    "chapter": "mod-embedded-iot-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-embedded-iot-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "判断：ADC 采样时，只要采样频率大于被测信号的最高频率，就满足奈奎斯特采样定理，可以无失真重建信号。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。奈奎斯特定理要求采样频率大于信号最高频率的 2 倍（fs > 2 × fmax），才能避免频谱混叠、无失真重建信号；只大于最高频率本身是不够的。工程上通常取 5~10 倍以留出余量，并在 ADC 前加抗混叠低通滤波器滤除带外分量。",
+    "tags": ["ADC", "采样定理"],
+    "difficulty": "easy",
+    "chapter": "mod-embedded-iot-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-embedded-iot-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "判断：C 语言中数组名作为函数参数传递时会退化为指针，因此在被调函数内用 sizeof(参数) 无法得到原数组的总字节数。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。数组作实参传递时退化（decay）为指向首元素的指针，函数形参 int arr[] 实际就是 int *arr，sizeof(arr) 得到的是指针大小（如 4 或 8 字节）而非数组总长。因此嵌入式接口设计中必须把长度作为独立参数传入，如 uart_send(const uint8_t *buf, size_t len)。",
+    "tags": ["嵌入式C", "指针", "数组"],
+    "difficulty": "easy",
+    "chapter": "mod-embedded-iot-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-embedded-iot-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "在 UART 大包收发、ADC 连续采样等场景中，MCU 常用一种硬件机制在无 CPU 干预的情况下直接在外设与内存之间搬运数据，显著降低 CPU 占用。请写出这种机制的英文缩写。",
+    "options": [],
+    "answer": ["DMA|dma|直接存储器访问|Direct Memory Access"],
+    "explanation": "答案是 DMA（Direct Memory Access，直接存储器访问）。DMA 控制器可按配置在外设寄存器与内存（或内存与内存）之间自动搬运数据，传输完成后以中断通知 CPU，全程无需 CPU 逐字节参与。典型应用：UART 大包收发、ADC 多通道连续采样、SPI 驱动屏幕刷图。",
+    "tags": ["DMA", "外设"],
+    "difficulty": "easy",
+    "chapter": "mod-embedded-iot-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-embedded-iot-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "IoT 设备量产后需要远程分发新固件：设备通过网络下载固件包、校验完整性后写入备份分区并切换启动，无需现场接线烧录。这种远程固件升级技术的英文缩写是什么？",
+    "options": [],
+    "answer": ["OTA|ota|空中升级|Over-The-Air|OTA升级"],
+    "explanation": "答案是 OTA（Over-The-Air，空中升级/远程固件升级）。典型流程：云端发布固件 → 设备经 MQTT/HTTP 收到升级通知并下载 → 校验签名与 CRC/哈希 → 写入备用分区（A/B 双分区）→ Bootloader 切换启动新固件，失败则回滚。OTA 是大规模 IoT 设备运维的基础能力，安全上必须做固件签名验证，防止恶意固件注入。",
+    "tags": ["OTA", "固件升级", "物联网"],
+    "difficulty": "medium",
+    "chapter": "mod-embedded-iot-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
   }
 ]
